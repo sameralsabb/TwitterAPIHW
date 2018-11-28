@@ -1,0 +1,606 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,Thu Nov 08 19:18:44 +0000 2018,0.0,0.0,1.0,0.0
+1,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",Thu Nov 08 17:02:25 +0000 2018,-0.6124,0.115,0.615,0.269
+2,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",Thu Nov 08 15:14:45 +0000 2018,-0.7783,0.0,0.638,0.362
+3,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,Thu Nov 08 14:22:51 +0000 2018,0.7906,0.389,0.611,0.0
+4,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",Thu Nov 08 13:43:25 +0000 2018,-0.6369,0.0,0.833,0.167
+5,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,Thu Nov 08 13:35:03 +0000 2018,-0.6597,0.0,0.672,0.328
+6,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",Thu Nov 08 13:22:27 +0000 2018,-0.34,0.0,0.862,0.138
+7,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,Thu Nov 08 12:56:20 +0000 2018,0.0,0.0,1.0,0.0
+8,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",Thu Nov 08 12:37:05 +0000 2018,0.0,0.0,1.0,0.0
+9,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,Thu Nov 08 12:25:14 +0000 2018,-0.34,0.0,0.87,0.13
+10,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",Thu Nov 08 12:06:14 +0000 2018,0.0258,0.105,0.795,0.1
+11,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",Thu Nov 08 11:54:22 +0000 2018,-0.6486,0.0,0.736,0.264
+12,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",Thu Nov 08 11:38:17 +0000 2018,-0.6486,0.0,0.719,0.281
+13,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",Thu Nov 08 11:32:26 +0000 2018,0.0,0.0,1.0,0.0
+14,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,Thu Nov 08 11:26:46 +0000 2018,-0.6486,0.0,0.677,0.323
+15,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",Thu Nov 08 11:18:08 +0000 2018,-0.6486,0.0,0.719,0.281
+16,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",Thu Nov 08 11:13:32 +0000 2018,-0.6486,0.0,0.765,0.235
+17,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,Thu Nov 08 11:12:14 +0000 2018,0.0,0.0,1.0,0.0
+18,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",Thu Nov 08 10:53:33 +0000 2018,0.0,0.0,1.0,0.0
+19,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,Thu Nov 08 10:36:12 +0000 2018,0.0,0.0,1.0,0.0
+20,CNN,"The scientists who put long hours, days, and years into projects like the National Climate Assessment do so on a vo… https://t.co/5YbzWwB25i",Wed Nov 28 04:48:35 +0000 2018,0.3612,0.111,0.889,0.0
+21,CNN,"RT @CNNTonight: ""Why are we subcontracting U.S. Foreign policy in the Middle East to Saudi Arabia?"" - CNN's @FareedZakaria on President Tru…",Wed Nov 28 04:31:59 +0000 2018,0.0,0.0,1.0,0.0
+22,CNN,"Lawmakers have returned to Washington and are working against the clock to fund several government agencies, includ… https://t.co/e906qEwzL1",Wed Nov 28 04:23:02 +0000 2018,0.0,0.0,1.0,0.0
+23,CNN,"Even if you have a workaholic boss, they might not always expect you to run at their pace https://t.co/hyVPddkBgw",Wed Nov 28 04:13:10 +0000 2018,0.0,0.0,1.0,0.0
+24,CNN,On the job with famed filmmaker/photographer Morgan Maassen https://t.co/peLSAYv9x7 https://t.co/Kgh4SDAuZP,Wed Nov 28 04:10:05 +0000 2018,0.0,0.0,1.0,0.0
+25,CNN,CIA director Gina Haspel found herself at the center of a political dispute amid reports that the White House was b… https://t.co/TTkU1VUO89,Wed Nov 28 03:58:03 +0000 2018,-0.4019,0.0,0.881,0.119
+26,CNN,"Republican Cindy Hyde-Smith wins Mississippi US Senate runoff amid racial controversies, CNN projects… https://t.co/aePLkuVQ4j",Wed Nov 28 03:50:07 +0000 2018,0.5719,0.222,0.778,0.0
+27,CNN,"If you want to see Michelangelo's ""David"" at the Accademia museum in Florence, you can squeeze in with 10,000 other… https://t.co/kVfR2vTIul",Wed Nov 28 03:49:04 +0000 2018,0.0772,0.061,0.939,0.0
+28,CNN,"The HIV epidemic in Europe is still growing at an alarming rate, particularly in Eastern Europe, according to a new… https://t.co/0OWUhsbtLP",Wed Nov 28 03:46:02 +0000 2018,0.0516,0.08,0.849,0.071
+29,CNN,Trump tests his dealmaking powers in a trade showdown with Chinese leader Xi Jinping https://t.co/REdly9rKyN https://t.co/X4jA1ITmdO,Wed Nov 28 03:34:06 +0000 2018,0.0,0.0,1.0,0.0
+30,CNN,"BREAKING: Republican Cindy Hyde-Smith wins Mississippi US Senate runoff amid racial controversies, CNN projects https://t.co/7rBBUurNBU",Wed Nov 28 03:32:53 +0000 2018,0.5719,0.209,0.791,0.0
+31,CNN,Here's what inspired this epic celebration handshake after NASA's lander touched down on the surface of Mars… https://t.co/wReGTLupoO,Wed Nov 28 03:31:01 +0000 2018,0.4939,0.158,0.842,0.0
+32,CNN,"""Planned Parenthood's work -- bringing affordable and accessible health care to as many women (and men and all peop… https://t.co/Unb4ImiC3R",Wed Nov 28 03:22:04 +0000 2018,0.4939,0.144,0.856,0.0
+33,CNN,RT @CNNTonight: The vote count is underway in the Mississippi US Senate runoff. @JohnKingCNN has the latest. https://t.co/du7bqTrJEl https:…,Wed Nov 28 03:15:08 +0000 2018,0.0,0.0,1.0,0.0
+34,CNN,The auto industry is facing an existential threat. Autonomous driving vehicles are about to change how cars are dri… https://t.co/UX0e78eC1I,Wed Nov 28 03:10:04 +0000 2018,-0.5267,0.0,0.848,0.152
+35,CNN,"RT @AC360: ""As an intelligence guy, I would would want to dwell on every morsel of information I could that would cast light on the event.""…",Wed Nov 28 03:09:10 +0000 2018,0.5994,0.219,0.781,0.0
+36,CNN,Beto-mania doesn't do justice to women | By Jill Filipovic for @CNNOpinion https://t.co/VA7S1ASPrE https://t.co/0AQrgC09gJ,Wed Nov 28 02:58:03 +0000 2018,-0.4168,0.0,0.812,0.188
+37,CNN,Will Ferrell and John C. Reilly have an important message about facial hair https://t.co/SBzkWmqnuY https://t.co/5tkWSrLmn3,Wed Nov 28 02:46:03 +0000 2018,0.2023,0.114,0.886,0.0
+38,CNN,Louisiana is trying to keep medical marijuana medical. It's harder than it sounds https://t.co/P6018SqQv6 https://t.co/GmUVoV2LIu,Wed Nov 28 02:43:51 +0000 2018,0.0,0.0,1.0,0.0
+39,CNN,"Jack Ma, China's most famous entrepreneur, was identified as a member of the Communist Party https://t.co/DtqbJXB1Ac https://t.co/CuVrpbnuCi",Wed Nov 28 02:34:06 +0000 2018,0.4019,0.153,0.847,0.0
+40,BBC News (World),"Lion Air crash: Airline should improve safety culture, a report says https://t.co/in1nUzrAVd",Wed Nov 28 03:35:16 +0000 2018,0.4588,0.348,0.488,0.165
+41,BBC News (World),Sydney storms: Hundreds call for help amid flash-flooding https://t.co/3gsOXgy6sL,Wed Nov 28 01:41:36 +0000 2018,0.4019,0.252,0.748,0.0
+42,BBC News (World),Ukraine-Russia sea clash: Trump says may cancel G20 Putin talks https://t.co/2TKQrAOB4q,Wed Nov 28 01:09:42 +0000 2018,-0.25,0.0,0.833,0.167
+43,BBC News (World),John Allen Chau: Do missionaries help or harm? https://t.co/lnzFRE9cHM,Wed Nov 28 00:21:03 +0000 2018,-0.2023,0.205,0.53,0.265
+44,BBC News (World),Why Brexit could threaten Dutch fishing industry https://t.co/iL3OPqFSn3,Wed Nov 28 00:12:12 +0000 2018,-0.3818,0.0,0.729,0.271
+45,BBC News (World),US sanctions Nicaragua's Vice-President Rosario Murillo https://t.co/5vvNk0Hbal,Wed Nov 28 00:00:29 +0000 2018,0.0,0.0,1.0,0.0
+46,BBC News (World),"Husky returns home after remarkable 2,200-mile adventure https://t.co/jMRvXZVRzS",Tue Nov 27 22:45:42 +0000 2018,0.7096,0.496,0.504,0.0
+47,BBC News (World),The fight over the right to name Australian places https://t.co/vZ27E5DUVO,Tue Nov 27 22:41:04 +0000 2018,-0.3818,0.0,0.776,0.224
+48,BBC News (World),Trump loves the army. Do they love him back? https://t.co/Mhbj7h8pEO,Tue Nov 27 22:15:52 +0000 2018,0.836,0.497,0.503,0.0
+49,BBC News (World),Nato state appoints first female head of armed forces https://t.co/rdaVoQHucG,Tue Nov 27 22:01:24 +0000 2018,0.0,0.0,1.0,0.0
+50,BBC News (World),RT @bbcweather: Strong chance of a new El Niño forming by early 2019 https://t.co/h7ZaKRgLuT,Tue Nov 27 21:44:48 +0000 2018,0.6486,0.325,0.675,0.0
+51,BBC News (World),US judge delays ruling on 'interesting' Julian Assange case https://t.co/qvOCg42GDR,Tue Nov 27 21:04:25 +0000 2018,0.0,0.0,1.0,0.0
+52,BBC News (World),John Magufuli: Tanzania prefers 'condition-free' Chinese aid https://t.co/JhgbLg9nEo,Tue Nov 27 19:06:54 +0000 2018,0.0,0.0,1.0,0.0
+53,BBC News (World),Alejandro Andrade: Venezuela ex-treasurer jailed over $1bn bribes https://t.co/2RgCsUvuqK,Tue Nov 27 18:54:13 +0000 2018,-0.4939,0.0,0.714,0.286
+54,BBC News (World),Fehmida Riaz: Pakistan poet who dared to talk about female desire https://t.co/fDpJnotDVa,Tue Nov 27 18:33:04 +0000 2018,0.4019,0.197,0.803,0.0
+55,BBC News (World),"""I'll never forget their cries, the way they watched me as I sat with them in the water""
+
+https://t.co/3g4l6DUv1K",Tue Nov 27 17:20:07 +0000 2018,0.4449,0.197,0.803,0.0
+56,BBC News (World),Mississippi's ugly past casts long shadow on Senate election https://t.co/wyl0np9TuC,Tue Nov 27 17:14:49 +0000 2018,-0.5106,0.0,0.732,0.268
+57,BBC News (World),RT @BBCNorthAmerica: The BBC is launching a weekly news show on @FacebookWatch in the US that premieres this Thursday at 5pm est. Follow &amp;…,Tue Nov 27 17:12:07 +0000 2018,0.0,0.0,1.0,0.0
+58,BBC News (World),Borussia Dortmund bus attack: Sergei Wenergold jailed https://t.co/F7GI7TVZBR,Tue Nov 27 16:32:48 +0000 2018,-0.743,0.0,0.488,0.512
+59,BBC News (World),"🎄🎄🎄 The White House looks tree-mendous 🎄🎄🎄
+
+[Tap to expand] https://t.co/n4x8hQu4RS https://t.co/Q3YQ1wZKTN",Tue Nov 27 16:17:23 +0000 2018,0.0,0.0,1.0,0.0
+60,CBS News,"Anthem among health insurers refusing to pay ER bills, doctors say https://t.co/BGrAOUBvT7 https://t.co/DyskCJGCO8",Wed Nov 28 04:48:04 +0000 2018,-0.4767,0.0,0.728,0.272
+61,CBS News,Utah teacher kills her ex-husband's girlfriend in front of her kids https://t.co/8PS1Ot56DF https://t.co/DroatfMWkL,Wed Nov 28 04:33:05 +0000 2018,-0.5423,0.0,0.774,0.226
+62,CBS News,Cindy Hyde-Smith’s Senate runoff win marks the “official end” of the 2018 midterm elections. https://t.co/lyHm1wyUFr https://t.co/E0YDEI1Rln,Wed Nov 28 04:21:33 +0000 2018,0.5859,0.202,0.798,0.0
+63,CBS News,"RT @edokeefe: HISTORY: With @CindyHydeSmith’s win in the Mississippi runoff election, 24 women will serve in the U.S. Senate — a new record…",Wed Nov 28 04:18:58 +0000 2018,0.5859,0.16,0.84,0.0
+64,CBS News,"“When this became the year of the woman...it was very much the year of the Democratic woman. So, to have these wins… https://t.co/wSpriNRkav",Wed Nov 28 04:09:58 +0000 2018,0.0,0.0,1.0,0.0
+65,CBS News,"“I want everybody to know, no matter who you voted for today, I’m gonna always represent every Mississippian,” says… https://t.co/mIMZbUAYvb",Wed Nov 28 04:02:37 +0000 2018,-0.2023,0.111,0.787,0.102
+66,CBS News,"“Being on that MAGA-wagon, the Make American Great Again bus, we have bonded, we have persevered, we have gotten th… https://t.co/ryJQpsft8U",Wed Nov 28 03:57:49 +0000 2018,0.6249,0.17,0.83,0.0
+67,CBS News,HAPPENING NOW: Cindy Hyde-Smith addresses supporters after winning Mississippi Senate runoff election.… https://t.co/9CRtaUZ7mY,Wed Nov 28 03:52:47 +0000 2018,0.743,0.364,0.636,0.0
+68,CBS News,"“She has my prayers as she goes to Washington to unite a very divided Mississippi,” says Mike Espy after his oppone… https://t.co/GXTAm1a5P0",Wed Nov 28 03:50:36 +0000 2018,0.0,0.0,1.0,0.0
+69,CBS News,HAPPENING NOW: Democrat Mike Espy speaks after Republican Cindy Hyde-Smith wins Mississippi runoff.… https://t.co/FJvqTuggiN,Wed Nov 28 03:45:11 +0000 2018,0.5719,0.222,0.778,0.0
+70,CBS News,"BREAKING: Republican Sen. Cindy Hyde-Smith wins Mississippi Senate runoff, becoming the first woman elected to Sena… https://t.co/br2dO3wGol",Wed Nov 28 03:32:45 +0000 2018,0.5719,0.188,0.812,0.0
+71,CBS News,Accused Russian spy Maria Butina asks to be moved from solitary confinement https://t.co/0XseXnsOh2 https://t.co/b2zFIaRJmo,Wed Nov 28 03:30:01 +0000 2018,-0.296,0.0,0.855,0.145
+72,CBS News,"Mississippi Senate race: With 62-percent of districts reporting, Republican Cindy Hyde-Smith is currently leading w… https://t.co/GY8ETC5NFM",Wed Nov 28 03:14:10 +0000 2018,0.0,0.0,1.0,0.0
+73,CBS News,"Pres. Trump again rejects climate change report, lashes out at Federal Reserve https://t.co/5AEz1K0JPW https://t.co/0vn4pVU3Li",Wed Nov 28 02:49:53 +0000 2018,-0.4939,0.0,0.802,0.198
+74,CBS News,"Officers ""violated public trust"" with cover stories in Laquan McDonald death, prosecutor says… https://t.co/vHZm4DeEh6",Wed Nov 28 02:30:00 +0000 2018,-0.6124,0.153,0.509,0.338
+75,CBS News,"GM will save $4.5 billion by cutting 14,000 jobs and closing five factories. 
+
+But according to SEC filings, the co… https://t.co/G56kFwiwas",Wed Nov 28 02:09:43 +0000 2018,0.4019,0.135,0.802,0.063
+76,CBS News,This is what Pres. Trump's threat to close the U.S.-Mexico border would cost https://t.co/dL7S0i2P9l https://t.co/NdfNK52ohA,Wed Nov 28 01:49:59 +0000 2018,-0.5267,0.0,0.805,0.195
+77,CBS News,"""Because of your support, I feel hopeful that our lives will return to normal"": Dr. Christine Blasey Ford released… https://t.co/dxk7vcIENL",Wed Nov 28 01:29:31 +0000 2018,0.7184,0.261,0.739,0.0
+78,CBS News,Polls are now closed in the Mississippi Senate special election as Republican Sen. Cindy Hyde-Smith defends her sea… https://t.co/bJzFA30krk,Wed Nov 28 01:11:31 +0000 2018,0.4019,0.13,0.87,0.0
+79,CBS News,Active shooter scare at Walter Reed National Military Medical Center was a drill gone wrong https://t.co/skK91p2pOg https://t.co/hIJJ9vUm9w,Wed Nov 28 00:41:01 +0000 2018,-0.5574,0.123,0.591,0.286
+80,The New York Times,He couldn’t recall the last time he needed to wash bugs from his windshield. Where had all those insects gone?  And… https://t.co/c9SYsdZYAt,Wed Nov 28 04:47:06 +0000 2018,0.0,0.0,1.0,0.0
+81,The New York Times,"The choreographer Rennie Harris on Alvin Ailey, whose company turns 60: “He’s still affecting folk: black, brown, w… https://t.co/pesCOCLFT8",Wed Nov 28 04:36:02 +0000 2018,0.0,0.0,1.0,0.0
+82,The New York Times,"RT @alanfeuer: Today's testimony at the Chapo trial had it all: a $10 million beach house, a flight to Switzerland for a cellular rejuvenat…",Wed Nov 28 04:17:00 +0000 2018,0.0,0.0,1.0,0.0
+83,The New York Times,"“Yes, it’s stressful. You work in an Ebola unit all day, then you go back to the hotel and hear gunfire at night.” https://t.co/wCXpUYgtsf",Wed Nov 28 04:02:02 +0000 2018,-0.5106,0.0,0.875,0.125
+84,The New York Times,"RT @migold: Stephen Hillenburg's SpongeBob has been on TV more or less continuously since 1999. 
+
+If you don't get SpongeBob, I explained w…",Wed Nov 28 03:53:03 +0000 2018,0.0,0.0,1.0,0.0
+85,The New York Times,"A federal appeals court upheld most of the criminal convictions against two aides to Chris Christie in the 2013 ""Br… https://t.co/HxOrv9KNOo",Wed Nov 28 03:47:03 +0000 2018,-0.5667,0.0,0.838,0.162
+86,The New York Times,See full results and maps from the Mississippi Senate election here: https://t.co/vXm6xaffkK,Wed Nov 28 03:38:00 +0000 2018,0.0,0.0,1.0,0.0
+87,The New York Times,"Breaking News: In the year's final Senate race, Cindy Hyde-Smith retained her seat in Mississippi, strengthening th… https://t.co/JhZUsDFxtg",Wed Nov 28 03:30:49 +0000 2018,0.5106,0.212,0.788,0.0
+88,The New York Times,"RT @alanblinder: Breaking from Mississippi: Senator Cindy Hyde-Smith, the Republican candidate, has defeated Mike Espy, the Democratic cand…",Wed Nov 28 03:26:41 +0000 2018,-0.4767,0.0,0.846,0.154
+89,The New York Times,"Mississippi Senate election live results
+https://t.co/MyvDQqBg67",Wed Nov 28 03:17:01 +0000 2018,0.0,0.0,1.0,0.0
+90,The New York Times,"Allies of Stacey Abrams, the Democrat who narrowly lost the Georgia governor’s race, filed a federal lawsuit callin… https://t.co/5RR5aTp7vW",Wed Nov 28 03:02:06 +0000 2018,-0.4939,0.0,0.792,0.208
+91,The New York Times,"RT @nytpolitics: John Bolton, the national security adviser, said he had not listened to audio of the killing of Jamal Khashoggi because he…",Wed Nov 28 02:47:03 +0000 2018,-0.4588,0.086,0.755,0.158
+92,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/0yJ14URQfb,Wed Nov 28 02:32:04 +0000 2018,0.0,0.0,1.0,0.0
+93,The New York Times,"Mississippi Senate election live results
+https://t.co/iD4MurukNa",Wed Nov 28 02:17:05 +0000 2018,0.0,0.0,1.0,0.0
+94,The New York Times,RT @nytmike: NEW: Giuliani said Mueller's team hammered Manafort on whether Trump knew about the 2016 Trump Tower meeting. “He wants Manafo…,Wed Nov 28 02:02:03 +0000 2018,0.0,0.0,1.0,0.0
+95,The New York Times,"Breaking News: President Trump’s lawyers are said to have been briefed on what Paul Manafort told investigators, in… https://t.co/u2qru0twi7",Wed Nov 28 01:51:22 +0000 2018,0.0,0.0,1.0,0.0
+96,The New York Times,"Netflix announced it has acquired the rights to develop many of Roald Dahl’s most beloved children's books, includi… https://t.co/AdQdqcz50x",Wed Nov 28 01:47:02 +0000 2018,0.5563,0.166,0.834,0.0
+97,The New York Times,RT @Nate_Cohn: The polls are closed in Mississippi. NYT results are live:  https://t.co/1D5dsisr5l,Wed Nov 28 01:33:04 +0000 2018,0.0,0.0,1.0,0.0
+98,The New York Times,First election results are coming in from Mississippi. Follow the vote here. https://t.co/ZZxeIq0Kux,Wed Nov 28 01:26:03 +0000 2018,0.0,0.0,1.0,0.0
+99,The New York Times,"RT @nytimesbooks: As tensions along the Mexican border remain high, here are 3 books that will help you understand the lives of those who l…",Wed Nov 28 01:15:09 +0000 2018,0.0,0.099,0.803,0.099
+100,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,Thu Nov 08 19:18:44 +0000 2018,0.0,0.0,1.0,0.0
+101,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",Thu Nov 08 17:02:25 +0000 2018,-0.6124,0.115,0.615,0.269
+102,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",Thu Nov 08 15:14:45 +0000 2018,-0.7783,0.0,0.638,0.362
+103,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,Thu Nov 08 14:22:51 +0000 2018,0.7906,0.389,0.611,0.0
+104,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",Thu Nov 08 13:43:25 +0000 2018,-0.6369,0.0,0.833,0.167
+105,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,Thu Nov 08 13:35:03 +0000 2018,-0.6597,0.0,0.672,0.328
+106,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",Thu Nov 08 13:22:27 +0000 2018,-0.34,0.0,0.862,0.138
+107,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,Thu Nov 08 12:56:20 +0000 2018,0.0,0.0,1.0,0.0
+108,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",Thu Nov 08 12:37:05 +0000 2018,0.0,0.0,1.0,0.0
+109,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,Thu Nov 08 12:25:14 +0000 2018,-0.34,0.0,0.87,0.13
+110,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",Thu Nov 08 12:06:14 +0000 2018,0.0258,0.105,0.795,0.1
+111,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",Thu Nov 08 11:54:22 +0000 2018,-0.6486,0.0,0.736,0.264
+112,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",Thu Nov 08 11:38:17 +0000 2018,-0.6486,0.0,0.719,0.281
+113,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",Thu Nov 08 11:32:26 +0000 2018,0.0,0.0,1.0,0.0
+114,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,Thu Nov 08 11:26:46 +0000 2018,-0.6486,0.0,0.677,0.323
+115,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",Thu Nov 08 11:18:08 +0000 2018,-0.6486,0.0,0.719,0.281
+116,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",Thu Nov 08 11:13:32 +0000 2018,-0.6486,0.0,0.765,0.235
+117,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,Thu Nov 08 11:12:14 +0000 2018,0.0,0.0,1.0,0.0
+118,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",Thu Nov 08 10:53:33 +0000 2018,0.0,0.0,1.0,0.0
+119,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,Thu Nov 08 10:36:12 +0000 2018,0.0,0.0,1.0,0.0
+120,CNN,"The scientists who put long hours, days, and years into projects like the National Climate Assessment do so on a vo… https://t.co/5YbzWwB25i",Wed Nov 28 04:48:35 +0000 2018,0.3612,0.111,0.889,0.0
+121,CNN,"RT @CNNTonight: ""Why are we subcontracting U.S. Foreign policy in the Middle East to Saudi Arabia?"" - CNN's @FareedZakaria on President Tru…",Wed Nov 28 04:31:59 +0000 2018,0.0,0.0,1.0,0.0
+122,CNN,"Lawmakers have returned to Washington and are working against the clock to fund several government agencies, includ… https://t.co/e906qEwzL1",Wed Nov 28 04:23:02 +0000 2018,0.0,0.0,1.0,0.0
+123,CNN,"Even if you have a workaholic boss, they might not always expect you to run at their pace https://t.co/hyVPddkBgw",Wed Nov 28 04:13:10 +0000 2018,0.0,0.0,1.0,0.0
+124,CNN,On the job with famed filmmaker/photographer Morgan Maassen https://t.co/peLSAYv9x7 https://t.co/Kgh4SDAuZP,Wed Nov 28 04:10:05 +0000 2018,0.0,0.0,1.0,0.0
+125,CNN,CIA director Gina Haspel found herself at the center of a political dispute amid reports that the White House was b… https://t.co/TTkU1VUO89,Wed Nov 28 03:58:03 +0000 2018,-0.4019,0.0,0.881,0.119
+126,CNN,"Republican Cindy Hyde-Smith wins Mississippi US Senate runoff amid racial controversies, CNN projects… https://t.co/aePLkuVQ4j",Wed Nov 28 03:50:07 +0000 2018,0.5719,0.222,0.778,0.0
+127,CNN,"If you want to see Michelangelo's ""David"" at the Accademia museum in Florence, you can squeeze in with 10,000 other… https://t.co/kVfR2vTIul",Wed Nov 28 03:49:04 +0000 2018,0.0772,0.061,0.939,0.0
+128,CNN,"The HIV epidemic in Europe is still growing at an alarming rate, particularly in Eastern Europe, according to a new… https://t.co/0OWUhsbtLP",Wed Nov 28 03:46:02 +0000 2018,0.0516,0.08,0.849,0.071
+129,CNN,Trump tests his dealmaking powers in a trade showdown with Chinese leader Xi Jinping https://t.co/REdly9rKyN https://t.co/X4jA1ITmdO,Wed Nov 28 03:34:06 +0000 2018,0.0,0.0,1.0,0.0
+130,CNN,"BREAKING: Republican Cindy Hyde-Smith wins Mississippi US Senate runoff amid racial controversies, CNN projects https://t.co/7rBBUurNBU",Wed Nov 28 03:32:53 +0000 2018,0.5719,0.209,0.791,0.0
+131,CNN,Here's what inspired this epic celebration handshake after NASA's lander touched down on the surface of Mars… https://t.co/wReGTLupoO,Wed Nov 28 03:31:01 +0000 2018,0.4939,0.158,0.842,0.0
+132,CNN,"""Planned Parenthood's work -- bringing affordable and accessible health care to as many women (and men and all peop… https://t.co/Unb4ImiC3R",Wed Nov 28 03:22:04 +0000 2018,0.4939,0.144,0.856,0.0
+133,CNN,RT @CNNTonight: The vote count is underway in the Mississippi US Senate runoff. @JohnKingCNN has the latest. https://t.co/du7bqTrJEl https:…,Wed Nov 28 03:15:08 +0000 2018,0.0,0.0,1.0,0.0
+134,CNN,The auto industry is facing an existential threat. Autonomous driving vehicles are about to change how cars are dri… https://t.co/UX0e78eC1I,Wed Nov 28 03:10:04 +0000 2018,-0.5267,0.0,0.848,0.152
+135,CNN,"RT @AC360: ""As an intelligence guy, I would would want to dwell on every morsel of information I could that would cast light on the event.""…",Wed Nov 28 03:09:10 +0000 2018,0.5994,0.219,0.781,0.0
+136,CNN,Beto-mania doesn't do justice to women | By Jill Filipovic for @CNNOpinion https://t.co/VA7S1ASPrE https://t.co/0AQrgC09gJ,Wed Nov 28 02:58:03 +0000 2018,-0.4168,0.0,0.812,0.188
+137,CNN,Will Ferrell and John C. Reilly have an important message about facial hair https://t.co/SBzkWmqnuY https://t.co/5tkWSrLmn3,Wed Nov 28 02:46:03 +0000 2018,0.2023,0.114,0.886,0.0
+138,CNN,Louisiana is trying to keep medical marijuana medical. It's harder than it sounds https://t.co/P6018SqQv6 https://t.co/GmUVoV2LIu,Wed Nov 28 02:43:51 +0000 2018,0.0,0.0,1.0,0.0
+139,CNN,"Jack Ma, China's most famous entrepreneur, was identified as a member of the Communist Party https://t.co/DtqbJXB1Ac https://t.co/CuVrpbnuCi",Wed Nov 28 02:34:06 +0000 2018,0.4019,0.153,0.847,0.0
+140,BBC News (World),"Lion Air crash: Airline should improve safety culture, a report says https://t.co/in1nUzrAVd",Wed Nov 28 03:35:16 +0000 2018,0.4588,0.348,0.488,0.165
+141,BBC News (World),Sydney storms: Hundreds call for help amid flash-flooding https://t.co/3gsOXgy6sL,Wed Nov 28 01:41:36 +0000 2018,0.4019,0.252,0.748,0.0
+142,BBC News (World),Ukraine-Russia sea clash: Trump says may cancel G20 Putin talks https://t.co/2TKQrAOB4q,Wed Nov 28 01:09:42 +0000 2018,-0.25,0.0,0.833,0.167
+143,BBC News (World),John Allen Chau: Do missionaries help or harm? https://t.co/lnzFRE9cHM,Wed Nov 28 00:21:03 +0000 2018,-0.2023,0.205,0.53,0.265
+144,BBC News (World),Why Brexit could threaten Dutch fishing industry https://t.co/iL3OPqFSn3,Wed Nov 28 00:12:12 +0000 2018,-0.3818,0.0,0.729,0.271
+145,BBC News (World),US sanctions Nicaragua's Vice-President Rosario Murillo https://t.co/5vvNk0Hbal,Wed Nov 28 00:00:29 +0000 2018,0.0,0.0,1.0,0.0
+146,BBC News (World),"Husky returns home after remarkable 2,200-mile adventure https://t.co/jMRvXZVRzS",Tue Nov 27 22:45:42 +0000 2018,0.7096,0.496,0.504,0.0
+147,BBC News (World),The fight over the right to name Australian places https://t.co/vZ27E5DUVO,Tue Nov 27 22:41:04 +0000 2018,-0.3818,0.0,0.776,0.224
+148,BBC News (World),Trump loves the army. Do they love him back? https://t.co/Mhbj7h8pEO,Tue Nov 27 22:15:52 +0000 2018,0.836,0.497,0.503,0.0
+149,BBC News (World),Nato state appoints first female head of armed forces https://t.co/rdaVoQHucG,Tue Nov 27 22:01:24 +0000 2018,0.0,0.0,1.0,0.0
+150,BBC News (World),RT @bbcweather: Strong chance of a new El Niño forming by early 2019 https://t.co/h7ZaKRgLuT,Tue Nov 27 21:44:48 +0000 2018,0.6486,0.325,0.675,0.0
+151,BBC News (World),US judge delays ruling on 'interesting' Julian Assange case https://t.co/qvOCg42GDR,Tue Nov 27 21:04:25 +0000 2018,0.0,0.0,1.0,0.0
+152,BBC News (World),John Magufuli: Tanzania prefers 'condition-free' Chinese aid https://t.co/JhgbLg9nEo,Tue Nov 27 19:06:54 +0000 2018,0.0,0.0,1.0,0.0
+153,BBC News (World),Alejandro Andrade: Venezuela ex-treasurer jailed over $1bn bribes https://t.co/2RgCsUvuqK,Tue Nov 27 18:54:13 +0000 2018,-0.4939,0.0,0.714,0.286
+154,BBC News (World),Fehmida Riaz: Pakistan poet who dared to talk about female desire https://t.co/fDpJnotDVa,Tue Nov 27 18:33:04 +0000 2018,0.4019,0.197,0.803,0.0
+155,BBC News (World),"""I'll never forget their cries, the way they watched me as I sat with them in the water""
+
+https://t.co/3g4l6DUv1K",Tue Nov 27 17:20:07 +0000 2018,0.4449,0.197,0.803,0.0
+156,BBC News (World),Mississippi's ugly past casts long shadow on Senate election https://t.co/wyl0np9TuC,Tue Nov 27 17:14:49 +0000 2018,-0.5106,0.0,0.732,0.268
+157,BBC News (World),RT @BBCNorthAmerica: The BBC is launching a weekly news show on @FacebookWatch in the US that premieres this Thursday at 5pm est. Follow &amp;…,Tue Nov 27 17:12:07 +0000 2018,0.0,0.0,1.0,0.0
+158,BBC News (World),Borussia Dortmund bus attack: Sergei Wenergold jailed https://t.co/F7GI7TVZBR,Tue Nov 27 16:32:48 +0000 2018,-0.743,0.0,0.488,0.512
+159,BBC News (World),"🎄🎄🎄 The White House looks tree-mendous 🎄🎄🎄
+
+[Tap to expand] https://t.co/n4x8hQu4RS https://t.co/Q3YQ1wZKTN",Tue Nov 27 16:17:23 +0000 2018,0.0,0.0,1.0,0.0
+160,CBS News,"Anthem among health insurers refusing to pay ER bills, doctors say https://t.co/BGrAOUBvT7 https://t.co/DyskCJGCO8",Wed Nov 28 04:48:04 +0000 2018,-0.4767,0.0,0.728,0.272
+161,CBS News,Utah teacher kills her ex-husband's girlfriend in front of her kids https://t.co/8PS1Ot56DF https://t.co/DroatfMWkL,Wed Nov 28 04:33:05 +0000 2018,-0.5423,0.0,0.774,0.226
+162,CBS News,Cindy Hyde-Smith’s Senate runoff win marks the “official end” of the 2018 midterm elections. https://t.co/lyHm1wyUFr https://t.co/E0YDEI1Rln,Wed Nov 28 04:21:33 +0000 2018,0.5859,0.202,0.798,0.0
+163,CBS News,"RT @edokeefe: HISTORY: With @CindyHydeSmith’s win in the Mississippi runoff election, 24 women will serve in the U.S. Senate — a new record…",Wed Nov 28 04:18:58 +0000 2018,0.5859,0.16,0.84,0.0
+164,CBS News,"“When this became the year of the woman...it was very much the year of the Democratic woman. So, to have these wins… https://t.co/wSpriNRkav",Wed Nov 28 04:09:58 +0000 2018,0.0,0.0,1.0,0.0
+165,CBS News,"“I want everybody to know, no matter who you voted for today, I’m gonna always represent every Mississippian,” says… https://t.co/mIMZbUAYvb",Wed Nov 28 04:02:37 +0000 2018,-0.2023,0.111,0.787,0.102
+166,CBS News,"“Being on that MAGA-wagon, the Make American Great Again bus, we have bonded, we have persevered, we have gotten th… https://t.co/ryJQpsft8U",Wed Nov 28 03:57:49 +0000 2018,0.6249,0.17,0.83,0.0
+167,CBS News,HAPPENING NOW: Cindy Hyde-Smith addresses supporters after winning Mississippi Senate runoff election.… https://t.co/9CRtaUZ7mY,Wed Nov 28 03:52:47 +0000 2018,0.743,0.364,0.636,0.0
+168,CBS News,"“She has my prayers as she goes to Washington to unite a very divided Mississippi,” says Mike Espy after his oppone… https://t.co/GXTAm1a5P0",Wed Nov 28 03:50:36 +0000 2018,0.0,0.0,1.0,0.0
+169,CBS News,HAPPENING NOW: Democrat Mike Espy speaks after Republican Cindy Hyde-Smith wins Mississippi runoff.… https://t.co/FJvqTuggiN,Wed Nov 28 03:45:11 +0000 2018,0.5719,0.222,0.778,0.0
+170,CBS News,"BREAKING: Republican Sen. Cindy Hyde-Smith wins Mississippi Senate runoff, becoming the first woman elected to Sena… https://t.co/br2dO3wGol",Wed Nov 28 03:32:45 +0000 2018,0.5719,0.188,0.812,0.0
+171,CBS News,Accused Russian spy Maria Butina asks to be moved from solitary confinement https://t.co/0XseXnsOh2 https://t.co/b2zFIaRJmo,Wed Nov 28 03:30:01 +0000 2018,-0.296,0.0,0.855,0.145
+172,CBS News,"Mississippi Senate race: With 62-percent of districts reporting, Republican Cindy Hyde-Smith is currently leading w… https://t.co/GY8ETC5NFM",Wed Nov 28 03:14:10 +0000 2018,0.0,0.0,1.0,0.0
+173,CBS News,"Pres. Trump again rejects climate change report, lashes out at Federal Reserve https://t.co/5AEz1K0JPW https://t.co/0vn4pVU3Li",Wed Nov 28 02:49:53 +0000 2018,-0.4939,0.0,0.802,0.198
+174,CBS News,"Officers ""violated public trust"" with cover stories in Laquan McDonald death, prosecutor says… https://t.co/vHZm4DeEh6",Wed Nov 28 02:30:00 +0000 2018,-0.6124,0.153,0.509,0.338
+175,CBS News,"GM will save $4.5 billion by cutting 14,000 jobs and closing five factories. 
+
+But according to SEC filings, the co… https://t.co/G56kFwiwas",Wed Nov 28 02:09:43 +0000 2018,0.4019,0.135,0.802,0.063
+176,CBS News,This is what Pres. Trump's threat to close the U.S.-Mexico border would cost https://t.co/dL7S0i2P9l https://t.co/NdfNK52ohA,Wed Nov 28 01:49:59 +0000 2018,-0.5267,0.0,0.805,0.195
+177,CBS News,"""Because of your support, I feel hopeful that our lives will return to normal"": Dr. Christine Blasey Ford released… https://t.co/dxk7vcIENL",Wed Nov 28 01:29:31 +0000 2018,0.7184,0.261,0.739,0.0
+178,CBS News,Polls are now closed in the Mississippi Senate special election as Republican Sen. Cindy Hyde-Smith defends her sea… https://t.co/bJzFA30krk,Wed Nov 28 01:11:31 +0000 2018,0.4019,0.13,0.87,0.0
+179,CBS News,Active shooter scare at Walter Reed National Military Medical Center was a drill gone wrong https://t.co/skK91p2pOg https://t.co/hIJJ9vUm9w,Wed Nov 28 00:41:01 +0000 2018,-0.5574,0.123,0.591,0.286
+180,The New York Times,He couldn’t recall the last time he needed to wash bugs from his windshield. Where had all those insects gone?  And… https://t.co/c9SYsdZYAt,Wed Nov 28 04:47:06 +0000 2018,0.0,0.0,1.0,0.0
+181,The New York Times,"The choreographer Rennie Harris on Alvin Ailey, whose company turns 60: “He’s still affecting folk: black, brown, w… https://t.co/pesCOCLFT8",Wed Nov 28 04:36:02 +0000 2018,0.0,0.0,1.0,0.0
+182,The New York Times,"RT @alanfeuer: Today's testimony at the Chapo trial had it all: a $10 million beach house, a flight to Switzerland for a cellular rejuvenat…",Wed Nov 28 04:17:00 +0000 2018,0.0,0.0,1.0,0.0
+183,The New York Times,"“Yes, it’s stressful. You work in an Ebola unit all day, then you go back to the hotel and hear gunfire at night.” https://t.co/wCXpUYgtsf",Wed Nov 28 04:02:02 +0000 2018,-0.5106,0.0,0.875,0.125
+184,The New York Times,"RT @migold: Stephen Hillenburg's SpongeBob has been on TV more or less continuously since 1999. 
+
+If you don't get SpongeBob, I explained w…",Wed Nov 28 03:53:03 +0000 2018,0.0,0.0,1.0,0.0
+185,The New York Times,"A federal appeals court upheld most of the criminal convictions against two aides to Chris Christie in the 2013 ""Br… https://t.co/HxOrv9KNOo",Wed Nov 28 03:47:03 +0000 2018,-0.5667,0.0,0.838,0.162
+186,The New York Times,See full results and maps from the Mississippi Senate election here: https://t.co/vXm6xaffkK,Wed Nov 28 03:38:00 +0000 2018,0.0,0.0,1.0,0.0
+187,The New York Times,"Breaking News: In the year's final Senate race, Cindy Hyde-Smith retained her seat in Mississippi, strengthening th… https://t.co/JhZUsDFxtg",Wed Nov 28 03:30:49 +0000 2018,0.5106,0.212,0.788,0.0
+188,The New York Times,"RT @alanblinder: Breaking from Mississippi: Senator Cindy Hyde-Smith, the Republican candidate, has defeated Mike Espy, the Democratic cand…",Wed Nov 28 03:26:41 +0000 2018,-0.4767,0.0,0.846,0.154
+189,The New York Times,"Mississippi Senate election live results
+https://t.co/MyvDQqBg67",Wed Nov 28 03:17:01 +0000 2018,0.0,0.0,1.0,0.0
+190,The New York Times,"Allies of Stacey Abrams, the Democrat who narrowly lost the Georgia governor’s race, filed a federal lawsuit callin… https://t.co/5RR5aTp7vW",Wed Nov 28 03:02:06 +0000 2018,-0.4939,0.0,0.792,0.208
+191,The New York Times,"RT @nytpolitics: John Bolton, the national security adviser, said he had not listened to audio of the killing of Jamal Khashoggi because he…",Wed Nov 28 02:47:03 +0000 2018,-0.4588,0.086,0.755,0.158
+192,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/0yJ14URQfb,Wed Nov 28 02:32:04 +0000 2018,0.0,0.0,1.0,0.0
+193,The New York Times,"Mississippi Senate election live results
+https://t.co/iD4MurukNa",Wed Nov 28 02:17:05 +0000 2018,0.0,0.0,1.0,0.0
+194,The New York Times,RT @nytmike: NEW: Giuliani said Mueller's team hammered Manafort on whether Trump knew about the 2016 Trump Tower meeting. “He wants Manafo…,Wed Nov 28 02:02:03 +0000 2018,0.0,0.0,1.0,0.0
+195,The New York Times,"Breaking News: President Trump’s lawyers are said to have been briefed on what Paul Manafort told investigators, in… https://t.co/u2qru0twi7",Wed Nov 28 01:51:22 +0000 2018,0.0,0.0,1.0,0.0
+196,The New York Times,"Netflix announced it has acquired the rights to develop many of Roald Dahl’s most beloved children's books, includi… https://t.co/AdQdqcz50x",Wed Nov 28 01:47:02 +0000 2018,0.5563,0.166,0.834,0.0
+197,The New York Times,RT @Nate_Cohn: The polls are closed in Mississippi. NYT results are live:  https://t.co/1D5dsisr5l,Wed Nov 28 01:33:04 +0000 2018,0.0,0.0,1.0,0.0
+198,The New York Times,First election results are coming in from Mississippi. Follow the vote here. https://t.co/ZZxeIq0Kux,Wed Nov 28 01:26:03 +0000 2018,0.0,0.0,1.0,0.0
+199,The New York Times,"RT @nytimesbooks: As tensions along the Mexican border remain high, here are 3 books that will help you understand the lives of those who l…",Wed Nov 28 01:15:09 +0000 2018,0.0,0.099,0.803,0.099
+200,Fox News,"Las Vegas shooting survivors were inside Thousand Oaks bar, friends say https://t.co/nW9TLTON9n",Thu Nov 08 10:30:40 +0000 2018,0.4767,0.22,0.78,0.0
+201,Fox News,"UPDATE: At least 11 wounded in shooting at California bar, gunman dead, police say https://t.co/awRowfbeRy",Thu Nov 08 10:24:08 +0000 2018,-0.6486,0.0,0.765,0.235
+202,Fox News,Authorities confirm gunman is dead @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/a2EIH1EWmA,Thu Nov 08 10:16:43 +0000 2018,-0.6486,0.0,0.619,0.381
+203,Fox News,Ventura County Sheriff’s Office Captain Garo Kuredjian: “I don’t know what the condition of any of the victims are… https://t.co/96mT27WHZv,Thu Nov 08 10:10:46 +0000 2018,-0.3182,0.0,0.892,0.108
+204,Fox News,"At least 11 shot, including sheriff’s deputy — Jonathan Hunt has the latest from the scene of the California shooti… https://t.co/sLzLyMsrn5",Thu Nov 08 10:03:44 +0000 2018,0.0,0.0,1.0,0.0
+205,Fox News,Witnesses describe chaotic scene during Thousand Oaks shooting https://t.co/qE8RqKGjz3,Thu Nov 08 09:54:50 +0000 2018,-0.4939,0.0,0.714,0.286
+206,Fox News,UPDATE: At least 11 people hurt in California shooting @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/RGWIkaxF4f,Thu Nov 08 09:46:19 +0000 2018,-0.5267,0.0,0.764,0.236
+207,Fox News,"Daniel Hoffman on California shooting: “This still an active shooter scene, and the focus is on dealing with that a… https://t.co/PiwHhe5HuX",Thu Nov 08 09:40:57 +0000 2018,0.4019,0.119,0.881,0.0
+208,Fox News,"Former Las Vegas Metro Police Lt. Randy Sutton: “Those who respond to this show incredible bravery, because they ar… https://t.co/idcJJuVRMP",Thu Nov 08 09:31:36 +0000 2018,0.4939,0.144,0.856,0.0
+209,Fox News,"Authorities deliver a briefing on a shooting in Thousand Oaks, California. (Courtesy: KCBS) https://t.co/5VGZz3rDIL",Thu Nov 08 09:25:02 +0000 2018,0.0,0.0,1.0,0.0
+210,Fox News,"Mass shooting at California bar, @HeatherChilders &amp; @JackieibanezFNC have the latest @FoxFriendsFirst… https://t.co/8c8H5LUFCu",Thu Nov 08 09:18:00 +0000 2018,0.0,0.0,1.0,0.0
+211,Fox News,Tesla names Robyn Denholm as Chairman to replace Elon Musk (via @FoxBusiness) https://t.co/SKjBXxUdOD,Thu Nov 08 09:10:00 +0000 2018,0.0,0.0,1.0,0.0
+212,Fox News,@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frankl… https://t.co/3eA2dn4vQh,Thu Nov 08 09:01:00 +0000 2018,0.2006,0.126,0.783,0.091
+213,Fox News,".@TuckerCarlson: ""While everyone else obsessed over dossiers and FISA warrants, Sessions worried about the mission… https://t.co/LSvnOqZMsq",Thu Nov 08 09:00:00 +0000 2018,-0.4404,0.0,0.782,0.218
+214,Fox News,"Wife's dying wish was for him to clean up bloody crime scene, suspect claims: reports https://t.co/7Wxd39jDEB",Thu Nov 08 08:51:00 +0000 2018,-0.4939,0.216,0.44,0.344
+215,Fox News,DEVELOPING: Massive police response after reports of shooting at California nightclub https://t.co/awRowfsPJ6,Thu Nov 08 08:41:00 +0000 2018,0.0,0.0,1.0,0.0
+216,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/XxmktKMZ7F",Thu Nov 08 08:31:00 +0000 2018,0.4939,0.158,0.842,0.0
+217,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/lt485btkXG",Thu Nov 08 08:21:00 +0000 2018,0.5106,0.155,0.845,0.0
+218,Fox News,Dem @GavinNewsom's wild victory party in LA features controversial rapper @common https://t.co/V9SSpxOUH7,Thu Nov 08 08:06:00 +0000 2018,0.2263,0.186,0.69,0.124
+219,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/MRia8l8dOM",Thu Nov 08 08:01:00 +0000 2018,0.7096,0.296,0.704,0.0
+220,CNN,"RT @CuomoPrimeTime: ""Manafort is already a known liar. That's part of what the probe showed about him...thats why he had a to make a plea d…",Wed Nov 28 02:32:02 +0000 2018,-0.5106,0.0,0.87,0.13
+221,CNN,"Special counsel Robert Mueller's team asked Jerome Corsi about his interactions with Roger Stone surrounding the ""A… https://t.co/0CBs1SmIkh",Wed Nov 28 02:22:06 +0000 2018,0.4019,0.137,0.863,0.0
+222,CNN,"Rep. Jerry Nadler, the likely incoming chairman of the House Judiciary Committee, warned President Trump that ""even… https://t.co/uUDaD6cpt7",Wed Nov 28 02:10:07 +0000 2018,-0.2732,0.0,0.89,0.11
+223,CNN,The Department of Justice said that it plans to appeal a temporary restraining order issued last week that blocks t… https://t.co/j5qTXk752v,Wed Nov 28 01:58:05 +0000 2018,0.3612,0.146,0.773,0.082
+224,CNN,"Trump administration climate change report is dead wrong, says Trump administration | Analysis by Chris Cillizza… https://t.co/ctp92p1vWl",Wed Nov 28 01:46:05 +0000 2018,-0.8126,0.0,0.654,0.346
+225,CNN,A video released by the US Forest Service shows the moment when a gender reveal party in Arizona went horribly wron… https://t.co/CbCxkr6s0t,Wed Nov 28 01:34:00 +0000 2018,-0.1779,0.112,0.747,0.141
+226,CNN,"An instructor forgot to harness this man onto a hang glider as it took off. He sustained a broken arm, but says he… https://t.co/lsIuBbU7gg",Wed Nov 28 01:22:00 +0000 2018,-0.2617,0.0,0.911,0.089
+227,CNN,Congressional negotiators are currently debating a provision inside the long-delayed farm bill that could extend lu… https://t.co/Mf3CvE7pxq,Wed Nov 28 01:10:04 +0000 2018,0.1779,0.102,0.898,0.0
+228,CNN,Members of the migrant caravan traveling through Mexico may have to wait up to six weeks at the US-Mexico border be… https://t.co/UY762lx4fv,Wed Nov 28 00:58:04 +0000 2018,0.0,0.0,1.0,0.0
+229,CNN,"This is one farm animal you wouldn't want any beef with.
+
+""Knickers,"" an enormous Holstein-Friesian steer in Austra… https://t.co/oyHec2eo5s",Wed Nov 28 00:46:00 +0000 2018,-0.0572,0.0,0.936,0.064
+230,CNN,Papa John's shares sink after a report that a plan to sell the company has fallen apart https://t.co/eDseziGtbZ https://t.co/reYZOgJWnr,Wed Nov 28 00:34:06 +0000 2018,-0.0772,0.112,0.761,0.127
+231,CNN,A video released by the US Forest Service shows the moment when a gender reveal party in Arizona went horribly wron… https://t.co/mmLagWpgVc,Wed Nov 28 00:22:06 +0000 2018,-0.1779,0.112,0.747,0.141
+232,CNN,"Economic expansions never go on forever. As the United States' long, slow recovery from the Great Recession stretch… https://t.co/4BKnabWrHw",Wed Nov 28 00:10:04 +0000 2018,0.6249,0.268,0.623,0.109
+233,CNN,US President Trump blamed the GM plant closures and recent stock market dips on the Fed in a Washington Post interv… https://t.co/iHr8TtmK00,Wed Nov 28 00:00:07 +0000 2018,-0.4767,0.0,0.866,0.134
+234,CNN,The endangered dusky gopher frog is dealt a setback at Supreme Court https://t.co/SsDTiJ5uDY https://t.co/YNbJ2TWVXU,Tue Nov 27 23:54:02 +0000 2018,0.5574,0.231,0.769,0.0
+235,CNN,Shrinking islands. Declining fisheries. West Nile virus. More wildfires. Here's how your part of the US will be aff… https://t.co/cZ32Ak5QCO,Tue Nov 27 23:42:06 +0000 2018,0.0,0.0,1.0,0.0
+236,CNN,"Pilot falls asleep, overshoots island destination by 30 miles https://t.co/wyL0SyXuRD https://t.co/gSNxJIoVyX",Tue Nov 27 23:30:04 +0000 2018,0.0,0.0,1.0,0.0
+237,CNN,"Journalist Wendy Fry, who reported from the border when US authorities deployed tear gas against migrants rushing t… https://t.co/N3kIBmutmG",Tue Nov 27 23:24:05 +0000 2018,0.0,0.0,1.0,0.0
+238,CNN,"Is it now safe to eat romaine lettuce? Not yet, FDA says
+https://t.co/K3AndM2IOe https://t.co/QW5syKkrDe",Tue Nov 27 23:10:05 +0000 2018,0.4404,0.182,0.818,0.0
+239,CNN,"Journalist Wendy Fry, who reported from the border when US authorities deployed tear gas against migrants rushing t… https://t.co/aX693Wr9BW",Tue Nov 27 23:00:08 +0000 2018,0.0,0.0,1.0,0.0
+240,BBC News (World),"RT @BBCPolitics: Theresa May: ""Now I've got to the final deal, everybody's saying ok, what's the next thing?"" 
+
+PM describes ""frustration""…",Tue Nov 27 16:16:06 +0000 2018,0.296,0.099,0.901,0.0
+241,BBC News (World),Ukraine-Russia sea clash: Who controls the territorial waters around Crimea? https://t.co/hVZj61qM9p,Tue Nov 27 16:04:34 +0000 2018,0.0,0.0,1.0,0.0
+242,BBC News (World),"""Touchdown confirmed""
+
+High-fives and special handshakes after @NASA successfully lands InSight robot on #Mars 
+
+[T… https://t.co/lqmZn0CeWw",Tue Nov 27 15:56:08 +0000 2018,0.7096,0.296,0.704,0.0
+243,BBC News (World),"Wandering peacocks a 'growing problem' on the Isle of Man, says ManxSPCA https://t.co/3UFW9JPLaZ",Tue Nov 27 15:45:37 +0000 2018,-0.25,0.118,0.694,0.188
+244,BBC News (World),"A surge in cocaine deaths in the US is being blamed on fentanyl, a synthetic opioid far stronger than morphine
+
+[Ta… https://t.co/i3FXgaKDR1",Tue Nov 27 15:39:56 +0000 2018,-0.128,0.11,0.759,0.131
+245,BBC News (World),Cancer 'cure' boss David Noakes jailed for 15 months https://t.co/LMQ2pEQqmP,Tue Nov 27 15:08:45 +0000 2018,-0.8225,0.0,0.513,0.487
+246,BBC News (World),"Fentanyl in cocaine: The deadly truth of new drugs cocktail
+
+https://t.co/iP0M9Y3gZR https://t.co/mNYGsh1jCF",Tue Nov 27 14:58:07 +0000 2018,0.3182,0.173,0.827,0.0
+247,BBC News (World),Afghanistan: US service members killed in bomb explosion https://t.co/KRfPhqo7Hg,Tue Nov 27 14:32:18 +0000 2018,-0.8271,0.0,0.476,0.524
+248,BBC News (World),RT @BBCNews: Reality Check: Is Trump right about the #Brexit deal? https://t.co/wFWF6QMZeh,Tue Nov 27 14:17:38 +0000 2018,0.0,0.0,1.0,0.0
+249,BBC News (World),After the caliphate: What next for IS? https://t.co/qoIy9Sb5hW,Tue Nov 27 14:13:58 +0000 2018,0.0,0.0,1.0,0.0
+250,BBC News (World),"RT @BBCNews: Big Knickers, Australia's biggest steer, towers above the herd https://t.co/q2eERBgvpo",Tue Nov 27 13:44:17 +0000 2018,0.0,0.0,1.0,0.0
+251,BBC News (World),"Big Knickers, Australia's biggest steer, towers above the herd https://t.co/o0LXJlR0dY",Tue Nov 27 12:56:04 +0000 2018,0.0,0.0,1.0,0.0
+252,BBC News (World),Mo Salah: Egypt footballer weighs in on cats and dogs row https://t.co/jtDKvYLYJS,Tue Nov 27 12:51:35 +0000 2018,0.0,0.0,1.0,0.0
+253,BBC News (World),Ukraine-Russia sea clash: Captured sailors shown on Russia TV https://t.co/drEzfAcSN0,Tue Nov 27 12:30:00 +0000 2018,0.0,0.0,1.0,0.0
+254,BBC News (World),Swimmer abandons attempt to swim Pacific https://t.co/D39l6Kw5U7,Tue Nov 27 12:20:27 +0000 2018,-0.3182,0.0,0.723,0.277
+255,BBC News (World),France fuel protests: Macron drives ahead amid unrest https://t.co/6jS76qBQhK,Tue Nov 27 12:19:10 +0000 2018,-0.2263,0.0,0.808,0.192
+256,BBC News (World),Migrant caravan: Trump defends tear gas on Mexico border https://t.co/MyzdUiIB2J,Tue Nov 27 12:19:05 +0000 2018,0.0,0.0,1.0,0.0
+257,BBC News (World),"RT @BBCPolitics: DUP leader Arlene Foster accuses Theresa May of ""giving up"" on a #Brexit deal that works for Northern Ireland, ahead of UK…",Tue Nov 27 12:17:35 +0000 2018,0.0,0.093,0.814,0.093
+258,BBC News (World),"RT @BBCNews: ""He's a superman""
+
+10-year-old Rupert, who had a rare blood disorder, is reunited with the man who helped save his life
+
+[Tap…",Tue Nov 27 11:33:29 +0000 2018,0.128,0.124,0.772,0.104
+259,BBC News (World),Honduran president's brother accused of drug trafficking https://t.co/3lxegyy5V5,Tue Nov 27 11:18:33 +0000 2018,-0.296,0.0,0.761,0.239
+260,CBS News,"GM bought back $10 billion in stock since 2015, double what job cuts will save https://t.co/4D6KzwkPSt https://t.co/7z4i0HQSrO",Wed Nov 28 00:34:21 +0000 2018,0.25,0.157,0.735,0.108
+261,CBS News,"RT @CBSThisMorning: She faced culinary challenges on #TopChef and #Chopped. Now, @cheffati is in a very different kind of fight.
+
+Wednesday…",Wed Nov 28 00:25:52 +0000 2018,-0.3804,0.059,0.811,0.13
+262,CBS News,"Senators to be briefed by Secretary of State Mike Pompeo and Defense Secretary James Mattis on Saudis, but want to… https://t.co/mxbtfWEL9s",Wed Nov 28 00:19:44 +0000 2018,0.1779,0.124,0.876,0.0
+263,CBS News,"RT @CBSEveningNews: Mississippi will soon have either its first elected female senator, or its first black senator since Reconstruction.
+
+S…",Tue Nov 27 23:55:29 +0000 2018,0.0,0.0,1.0,0.0
+264,CBS News,"RT @CBSEveningNews: Pres. Trump threatened to end federal subsidies to GM on Tuesday, tweeting, “The U.S. saved General Motors, and this is…",Tue Nov 27 23:55:15 +0000 2018,-0.0516,0.109,0.775,0.116
+265,CBS News,Three U.S. service members were killed by a roadside bomb in Afghanistan today. It is the largest loss of American… https://t.co/XeiWI4LGQ5,Tue Nov 27 23:51:20 +0000 2018,-0.875,0.0,0.63,0.37
+266,CBS News,"RT @CBSEveningNews: A flight recorder on Lion Air Flight 610, which crashed last month off Indonesia, suggests pilots were locked in a dead…",Tue Nov 27 23:50:50 +0000 2018,0.0,0.0,1.0,0.0
+267,CBS News,Paul Manafort is denying a report that he secretly met with Wikileaks founder Julian Assange about a trove of stole… https://t.co/vhyPKXkfr7,Tue Nov 27 23:44:16 +0000 2018,-0.34,0.0,0.882,0.118
+268,CBS News,"""We're being told it is a drill. Have you heard that?""
+""We were told it's not a drill""
+
+@CBSDavidMartin shows the t… https://t.co/FQ0Kz56vq4",Tue Nov 27 23:37:19 +0000 2018,0.0,0.0,1.0,0.0
+269,CBS News,"""What am I going to learn from it?"" National Security Advisor John Bolton revealed today that he hasn't listened to… https://t.co/xT6EA7yiaH",Tue Nov 27 23:30:12 +0000 2018,0.34,0.112,0.888,0.0
+270,CBS News,Alzheimer's and dementia patients visited by puppies for Thanksgiving and receive a gift to help them feel loved al… https://t.co/Rq0jpYQ2VG,Tue Nov 27 23:29:47 +0000 2018,0.8591,0.373,0.627,0.0
+271,CBS News,"Stephen Hillenburg, the creator of the beloved show ""Spongebob Squarepants,"" has gone to the great pineapple in the… https://t.co/ttQ4LCdKAy",Tue Nov 27 23:09:45 +0000 2018,0.8126,0.303,0.697,0.0
+272,CBS News,NASA's Insight spacecraft sent us earthlings a selfie from Mars after landing there https://t.co/xiLWYG7Ph4,Tue Nov 27 22:50:00 +0000 2018,0.0,0.0,1.0,0.0
+273,CBS News,Three doctors are being investigated for euthanizing a woman with autism https://t.co/juQcweLwaE https://t.co/dHRmGInsk8,Tue Nov 27 22:30:00 +0000 2018,0.0,0.0,1.0,0.0
+274,CBS News,RT @CBSMoneyWatch: Is Tesla's Elon Musk in saying you have to work crazy hours to change the world? https://t.co/60vqXPEbtE,Tue Nov 27 21:52:08 +0000 2018,-0.34,0.0,0.882,0.118
+275,CBS News,"President Trump threatens to end federal subsidies for GM after it announces layoffs and plant closings: ""I am here… https://t.co/F2gC3C9QwP",Tue Nov 27 21:29:54 +0000 2018,-0.3818,0.0,0.88,0.12
+276,CBS News,CUO-NO: New York Gov. Andrew Cuomo says he's ruling out running for president in 2020 https://t.co/nCg4veJef2 https://t.co/dWrIA8bjj7,Tue Nov 27 21:09:36 +0000 2018,0.0,0.0,1.0,0.0
+277,CBS News,"Elon Musk says people ""must work at least 80 hours a week to make a difference."" But research shows long workweeks… https://t.co/a7kI3hpY3U",Tue Nov 27 20:49:15 +0000 2018,0.0,0.0,1.0,0.0
+278,CBS News,TERRIFYING: Tourist clings for life while dangling from a flying hang glider in Switzerland after his harness wasn'… https://t.co/E7zQjORwwe,Tue Nov 27 20:31:28 +0000 2018,-0.6633,0.0,0.793,0.207
+279,CBS News,"Migrant mother falls off border fence, impaled in front of her two young children https://t.co/Fo24QK919S https://t.co/N3ZNXwPm0j",Tue Nov 27 20:10:34 +0000 2018,0.0,0.0,1.0,0.0
+280,The New York Times,"More than half of all female homicide victims last year were killed by intimate partners or relatives, according to… https://t.co/JB6ne8yDb0",Wed Nov 28 01:00:04 +0000 2018,-0.7783,0.0,0.726,0.274
+281,The New York Times,Who will win the Mississippi Senate runoff election? Keep this page open for live results when they come in. https://t.co/q360923jvF,Wed Nov 28 00:47:05 +0000 2018,0.5859,0.167,0.833,0.0
+282,The New York Times,Democrats have united behind a bid to derail the district court nomination of a judge who defended a racially gerry… https://t.co/Mto34nQ2NH,Wed Nov 28 00:32:02 +0000 2018,0.1531,0.133,0.762,0.105
+283,The New York Times,RT @nytopinion: Three not-so-crazy (but still crazy) theories about why Paul Manafort lied to Mueller. https://t.co/QcO14EhHwO,Wed Nov 28 00:17:03 +0000 2018,-0.3818,0.0,0.852,0.148
+284,The New York Times,"Speculators are picking up the right to drill on enormous stretches of public land, and at bargain prices. ""The ind… https://t.co/nADYVf9GjT",Wed Nov 28 00:02:04 +0000 2018,0.2023,0.083,0.917,0.0
+285,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/UJMVQUpe3U,Tue Nov 27 23:47:01 +0000 2018,0.0,0.0,1.0,0.0
+286,The New York Times,"Juul is developing a pod that is higher in vapor, which, experts say, can enhance the rate at which nicotine is abs… https://t.co/QCniXOl1CM",Tue Nov 27 23:32:03 +0000 2018,0.0,0.0,1.0,0.0
+287,The New York Times,"RT @nytclimate: In @NYTmag : ""The windshield phenomenon."" Your car is cleaner than it used to be after driving on the highway, and that's a…",Tue Nov 27 23:17:02 +0000 2018,0.1779,0.069,0.931,0.0
+288,The New York Times,President Trump — irate over the G.M. cutbacks — threatened an end to federal tax credits that have helped underwri… https://t.co/JvnQPb0UFF,Tue Nov 27 22:47:05 +0000 2018,-0.6597,0.098,0.63,0.272
+289,The New York Times,France's decision to return some looted African treasures increases pressure on European museums to return objects… https://t.co/VfDX1lDG0f,Tue Nov 27 22:32:05 +0000 2018,0.1531,0.14,0.75,0.11
+290,The New York Times,Officials from 9 countries criticized Facebook at a hearing on Tuesday. They left an empty chair for Mark Zuckerber… https://t.co/KvW7EeL8xc,Tue Nov 27 22:18:06 +0000 2018,-0.5106,0.0,0.788,0.212
+291,The New York Times,"RT @DLeonhardt: Three weeks ago, 62% of Missourians voted for a constitutional amendment to reduce corruption and make the state's election…",Tue Nov 27 22:10:05 +0000 2018,0.0,0.0,1.0,0.0
+292,The New York Times,"In France this simple, nutritious soup is made with wild greens that you might forage on an afternoon’s walk, such… https://t.co/eYDT1r4y94",Tue Nov 27 21:55:05 +0000 2018,0.0,0.0,1.0,0.0
+293,The New York Times,A roughly one-year-old mountain lion known as P-74 who was being tracked in the Santa Monica Mountains likely died… https://t.co/WeHrhqk6bk,Tue Nov 27 21:40:08 +0000 2018,0.0,0.0,1.0,0.0
+294,The New York Times,RT @caitlinroper: The @nytimes for Kids brings you... NYC Kids' street style!! https://t.co/ZxPYvWZcJW,Tue Nov 27 21:32:04 +0000 2018,0.0,0.0,1.0,0.0
+295,The New York Times,"In 1997, high school sophomore Esequiel Hernandez Jr. was shot and killed by a Marine on the border as he herded hi… https://t.co/RpFZyUBsLM",Tue Nov 27 21:25:05 +0000 2018,-0.6705,0.0,0.824,0.176
+296,The New York Times,"Going bowling, a drumline, the fusion dance and more: here's how the NFL has been celebrating this season https://t.co/UD8MEqib42",Tue Nov 27 21:10:04 +0000 2018,0.5719,0.179,0.821,0.0
+297,The New York Times,RT @nytimesbusiness: Stocks have had a bad month. Apple has had a worse one. https://t.co/7wmTFKkwFU,Tue Nov 27 20:45:07 +0000 2018,-0.765,0.0,0.625,0.375
+298,The New York Times,"First, SpongeBob conquered TV screens. Then he starred in 2 films (with a 3rd film scheduled to be released in 2020… https://t.co/y3HquIexZR",Tue Nov 27 20:39:55 +0000 2018,0.0,0.0,1.0,0.0
+299,The New York Times,A 26-year-old Guatemalan woman fell and was impaled on metal bars after she and her 2 children tried to climb a bor… https://t.co/YWYcoBd14q,Tue Nov 27 20:30:05 +0000 2018,0.0,0.0,1.0,0.0
+300,Fox News,"Devotees lit earthen lamps in Ayodhya, India as part of Diwali celebrations, also known as a festival of lights, on… https://t.co/uWGZnrkvqD",Thu Nov 08 07:51:00 +0000 2018,0.5719,0.207,0.793,0.0
+301,Fox News,".@TGowdySC on Jeff Sessions resigning: ""It was going to happen...He's been a proverbial dead man walking for severa… https://t.co/ojKL4KMFTz",Thu Nov 08 07:41:00 +0000 2018,-0.7351,0.0,0.721,0.279
+302,Fox News,Mob chants threats outside @TuckerCarlson’s DC home https://t.co/IJE8m5gjWi,Thu Nov 08 07:31:00 +0000 2018,-0.4215,0.0,0.714,0.286
+303,Fox News,".@TuckerCarlson: ""Supporting marriage and children is the best, maybe the only way, for Republicans or any of us to… https://t.co/fqPwC8XTaY",Thu Nov 08 07:21:00 +0000 2018,0.7964,0.283,0.717,0.0
+304,Fox News,.@KennedyNation: Dems in 2020 better without Nancy https://t.co/54vTCiffG4,Thu Nov 08 07:16:00 +0000 2018,0.4404,0.293,0.707,0.0
+305,Fox News,Battleground-state Dems who opposed Kavanaugh all defeated https://t.co/guqMSVjd74,Thu Nov 08 07:11:00 +0000 2018,-0.4767,0.0,0.693,0.307
+306,Fox News,".@Jim_Jordan on his run for House GOP leader: “We have to match [@POTUS’s] intensity, that’s what I want to do. If… https://t.co/2VOW1ykCsI",Thu Nov 08 07:01:00 +0000 2018,0.0772,0.061,0.939,0.0
+307,Fox News,.@senatemajldr: Dem Votes Against Kavanaugh Were a 'Godsend' to GOP in Midterms https://t.co/ietr8sP4EQ,Thu Nov 08 06:51:00 +0000 2018,0.0,0.0,1.0,0.0
+308,Fox News,.@marcthiessen: “There’s lots of things that Democrats could take a stand on that they find inherently unacceptable… https://t.co/c7UFDzFd60,Thu Nov 08 06:41:00 +0000 2018,0.0,0.0,1.0,0.0
+309,Fox News,".@DarrellIssa on the Mueller probe: ""Two years is a long time to look for a crime you can't prove.""… https://t.co/plX9kxpSXy",Thu Nov 08 06:36:00 +0000 2018,-0.5423,0.0,0.829,0.171
+310,Fox News,"Second teen dies of gunshot wound after Oklahoma mom's rampage, authorities say https://t.co/VUQxsa3mq3",Thu Nov 08 06:31:00 +0000 2018,0.0,0.0,1.0,0.0
+311,Fox News,.@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frank… https://t.co/MGVdJQVfUt,Thu Nov 08 06:21:00 +0000 2018,0.2006,0.126,0.783,0.091
+312,Fox News,"Florida Highway Patrol cruiser hits 142 mph in pursuit, catches on fire https://t.co/GqWKI45AAm",Thu Nov 08 06:11:00 +0000 2018,-0.34,0.0,0.833,0.167
+313,Fox News,Democratic strategist @LeslieMarshall: “What we need is not a wall — and not a wall that we can’t afford — but comp… https://t.co/TzRWVJQeVv,Thu Nov 08 06:01:00 +0000 2018,0.0,0.0,1.0,0.0
+314,Fox News,"Sex offender gets 22 years after missing boy, 14, found in his room at halfway house, authorities say https://t.co/sDd0VQzob4",Thu Nov 08 05:51:00 +0000 2018,-0.5719,0.0,0.783,0.217
+315,Fox News,".@POTUS touts Senate gains, @LelandVittert breaks down the results @foxnewsnight https://t.co/VMzif8sgHH",Thu Nov 08 05:41:00 +0000 2018,0.3182,0.192,0.72,0.088
+316,Fox News,Former Kavanaugh colleague among group being considered to replace Sessions as AG: reports https://t.co/HxAlDZx2Mg,Thu Nov 08 05:31:00 +0000 2018,0.0,0.0,1.0,0.0
+317,Fox News,"Too close to call: Meticulous vote count transpiring in Arizona Senate race, @aacuna1 reports @foxnewsnight https://t.co/DV6EX4Ogxe",Thu Nov 08 05:26:00 +0000 2018,0.0,0.0,1.0,0.0
+318,Fox News,"Former SEAL Mocked by 'SNL' Wins TX House Seat, Calls for More Vets in Congress https://t.co/T0PAhopphH… https://t.co/qhS5BVOE2U",Thu Nov 08 05:21:01 +0000 2018,0.6841,0.298,0.603,0.099
+319,Fox News,South Carolina voter told to remove 'Trump' shirt in order to vote: report https://t.co/xWY2EdSpDF,Thu Nov 08 05:11:00 +0000 2018,0.0,0.0,1.0,0.0
+320,CNN,This is how tear gas affects children https://t.co/aPw1BeeJ1q https://t.co/0DkocTliTY,Tue Nov 27 22:42:02 +0000 2018,0.0,0.0,1.0,0.0
+321,CNN,"Journalist Wendy Fry, who reported from the border when US authorities deployed tear gas against migrants rushing t… https://t.co/T4M8MM5trS",Tue Nov 27 22:32:44 +0000 2018,0.0,0.0,1.0,0.0
+322,CNN,A top House Republican President Donald Trump remains firm on requesting $5 billion for border security as part of… https://t.co/LdCDziZu1i,Tue Nov 27 22:20:06 +0000 2018,0.4939,0.198,0.802,0.0
+323,CNN,White House national security adviser John Bolton says he didn't listen to a tape that captured part of the killing… https://t.co/Ro7gefxFmf,Tue Nov 27 22:10:03 +0000 2018,0.34,0.112,0.888,0.0
+324,CNN,"PwC Chairman Tim Ryan: ""I would love to be remembered as somebody who led a moment that had America's workplaces be… https://t.co/w0Hf2KPHsq",Tue Nov 27 22:00:20 +0000 2018,0.6369,0.174,0.826,0.0
+325,CNN,Draft court filings from Robert Mueller show what special counsel may know about Roger Stone's efforts to get infor… https://t.co/tcNOAP4WsD,Tue Nov 27 21:50:04 +0000 2018,0.4019,0.124,0.876,0.0
+326,CNN,"The gunman in the mass shooting at a bar in Thousand Oaks, California, entered the building and opened fire, tossed… https://t.co/7Z9asPIHuq",Tue Nov 27 21:40:09 +0000 2018,-0.34,0.0,0.888,0.112
+327,CNN,This is what a bunch of regional sports networks would do for Amazon https://t.co/f0omBN8VyS https://t.co/5ltvSqUbEB,Tue Nov 27 21:32:04 +0000 2018,0.1779,0.116,0.884,0.0
+328,CNN,"Facebook has a ""black people problem,"" according to a former manager at the company. ""In some buildings, there are… https://t.co/2vDFSJYtcL",Tue Nov 27 21:21:05 +0000 2018,0.0,0.0,1.0,0.0
+329,CNN,A Texas cotton farmer is battling cancer and couldn't harvest his crop. So his neighbors did it for him… https://t.co/8nWmyfbUz4,Tue Nov 27 21:10:05 +0000 2018,-0.7579,0.0,0.723,0.277
+330,CNN,"Robert De Niro confirms split from wife Grace Hightower
+https://t.co/yGke2Zlypy https://t.co/dFPdJACpaZ",Tue Nov 27 21:00:08 +0000 2018,0.4215,0.219,0.781,0.0
+331,CNN,Vendors in this Chinese market can build a smartphone from scratch in a couple of hours https://t.co/qJRzy0upbB https://t.co/HJfACVrc79,Tue Nov 27 21:00:01 +0000 2018,0.0,0.0,1.0,0.0
+332,CNN,"Stephen Hillenburg, the creator of ""SpongeBob Squarepants,"" has died. He was 57. https://t.co/aA8dieIqSX https://t.co/7a7bh6Sdeq",Tue Nov 27 20:51:25 +0000 2018,-0.5574,0.0,0.783,0.217
+333,CNN,Mexico's president will bestow his nation's highest honor for foreigners on Jared Kushner on Friday in Buenos Aires… https://t.co/lfnsNIviOv,Tue Nov 27 20:44:02 +0000 2018,0.4939,0.151,0.849,0.0
+334,CNN,"""The scientists have told us—despite Trump's absurd thought that this is a hoax—that the future of the planet is at… https://t.co/4mUZId9H9a",Tue Nov 27 20:31:07 +0000 2018,0.0,0.0,1.0,0.0
+335,CNN,What's next for NASA's Mars InSight lander? https://t.co/Xngcj9C0U3 https://t.co/Y0unPeCa9o,Tue Nov 27 20:16:06 +0000 2018,0.0,0.0,1.0,0.0
+336,CNN,President Trump threatened to cut all General Motors subsidies after the automaker announced thousands of jobs cuts… https://t.co/qh7d93JvwS,Tue Nov 27 20:04:07 +0000 2018,-0.6249,0.0,0.758,0.242
+337,CNN,A woman was jailed for 3 months because police thought her cotton candy was meth https://t.co/Wca94JPlcW https://t.co/D9zbC5NXre,Tue Nov 27 19:52:07 +0000 2018,-0.4939,0.0,0.814,0.186
+338,CNN,"Former FBI Director James Comey says Attorney General Matthew Whitaker ""may not be the sharpest knife in our drawer… https://t.co/oPXOoHOF1L",Tue Nov 27 19:40:09 +0000 2018,0.0,0.0,1.0,0.0
+339,CNN,"Melania Trump's White House holiday decorations highlight ""patriotism'"" https://t.co/dnt63ixYFv https://t.co/EMLllMWLi8",Tue Nov 27 19:28:05 +0000 2018,0.6249,0.389,0.611,0.0
+340,BBC News (World),Oprah Winfrey pays tribute to late mother Vernita Lee https://t.co/mWhU0UhwLv,Tue Nov 27 10:51:23 +0000 2018,0.0,0.0,1.0,0.0
+341,BBC News (World),Lu Guang: Award-winning Chinese photographer disappears in Xinjiang https://t.co/y4CuCcR1AU,Tue Nov 27 10:24:45 +0000 2018,-0.34,0.0,0.769,0.231
+342,BBC News (World),RT @BBCNews: New Zealand whale stranding: 'I will never forget their cries' https://t.co/O5kskASUj8,Tue Nov 27 09:50:32 +0000 2018,0.4449,0.263,0.737,0.0
+343,BBC News (World),New Zealand whale stranding: 'I will never forget their cries' https://t.co/AQfrUSBlkV,Tue Nov 27 09:20:32 +0000 2018,0.4449,0.304,0.696,0.0
+344,BBC News (World),"RT @BBCNews: Meet Mike - the magpie that says, ""Merry Christmas!"" 🎁🎄🎅
+
+[Tap to expand] https://t.co/P2pQfaLgRu https://t.co/zXpJ5haf0n",Tue Nov 27 08:57:54 +0000 2018,0.5848,0.202,0.798,0.0
+345,BBC News (World),"RT @BBCNews: Nasa lands InSight robot on #Mars to study planet's interior
+
+https://t.co/hxpBD83WIT https://t.co/IrEcuCWDDh",Tue Nov 27 08:32:40 +0000 2018,0.0,0.0,1.0,0.0
+346,BBC News (World),RT @BBCBenThompson: As President Trump weighs in on #Brexit and threatens more tariffs on #China imports - today we're asking - does the wo…,Tue Nov 27 08:27:32 +0000 2018,-0.3818,0.0,0.89,0.11
+347,BBC News (World),China defends holding fugitive businessman's US children https://t.co/zb252iwf5y,Tue Nov 27 07:54:32 +0000 2018,0.0,0.0,1.0,0.0
+348,BBC News (World),RT @BBCNews: The agony over an American dream https://t.co/ic9fa8wh8n,Tue Nov 27 07:53:21 +0000 2018,-0.2023,0.169,0.593,0.237
+349,BBC News (World),John Allen Chau: India 'puts on hold' efforts to retrieve body https://t.co/yEkz1eWMAq,Tue Nov 27 07:53:15 +0000 2018,0.0,0.0,1.0,0.0
+350,BBC News (World),"RT @BBCNews: Donald Trump suggests Theresa May's #Brexit agreement could impact UK-US trade deal
+
+[Tap to expand]
+
+https://t.co/mxCVFjIbFb…",Tue Nov 27 07:52:28 +0000 2018,0.4939,0.158,0.842,0.0
+351,BBC News (World),RT @BBCNews: How cooking and cleaning transformed a violent man https://t.co/EveoOTcw0l,Tue Nov 27 07:50:49 +0000 2018,-0.5994,0.0,0.698,0.302
+352,BBC News (World),RT @BBCNews: Brexit: Trump hints May's Brexit could bar UK-US trade deal https://t.co/Av39Iyzn7A,Tue Nov 27 07:50:44 +0000 2018,0.0,0.0,1.0,0.0
+353,BBC News (World),"RT @davidshukmanbbc: British, French, German and American technology starting first full day on #Mars today #MarsInSight #MarsLanding ⁦@BBC…",Tue Nov 27 07:49:58 +0000 2018,0.0,0.0,1.0,0.0
+354,BBC News (World),"RT @BBCBreaking: British academic Matthew Hedges praises ""brave and strong"" wife Daniela as he arrives back in UK after being pardoned by U…",Tue Nov 27 07:43:51 +0000 2018,0.9001,0.387,0.613,0.0
+355,BBC News (World),"RT @BBCBreaking: Matthew Hedges, British academic jailed for spying in UAE, arrives home in UK after being pardoned https://t.co/DYR8Ux0c2G",Tue Nov 27 07:28:29 +0000 2018,-0.3182,0.086,0.769,0.145
+356,BBC News (World),The man who spent decades befriending isolated Sentinelese tribe https://t.co/07MrKp8MfF,Tue Nov 27 07:21:46 +0000 2018,-0.3182,0.0,0.796,0.204
+357,BBC News (World),"The families of Jumadil and Fikri were the lucky ones.
+
+Hundreds of others lost their loved ones in the 2018 #Palu… https://t.co/VFsZGeT3rP",Tue Nov 27 05:42:18 +0000 2018,0.6597,0.239,0.679,0.082
+358,BBC News (World),"The family’s happy ending, which was also captured on film.
+
+[Tap to expand]
+
+https://t.co/zQBqYtwIDK https://t.co/jOoW9soAfo",Tue Nov 27 05:42:12 +0000 2018,0.5719,0.209,0.791,0.0
+359,BBC News (World),"The family banded together to search for Fikri.
+
+A miracle arrived in the form of a social worker, who knocked at t… https://t.co/iz9OUo8W13",Tue Nov 27 05:39:59 +0000 2018,0.5859,0.16,0.84,0.0
+360,CBS News,Diverse freshman class will bolster record number of Latinos in Congress https://t.co/92T6h5hv37 https://t.co/pCV3nm0XOc,Tue Nov 27 19:50:52 +0000 2018,0.0772,0.098,0.902,0.0
+361,CBS News,"Sarah Huckabee Sanders on tear gas being used on migrants at the border: ""Certainly no one wants women or children… https://t.co/QCwcWsAQFw",Tue Nov 27 19:13:14 +0000 2018,0.0516,0.102,0.805,0.093
+362,CBS News,Sen. Lindsey Graham urges Alexandria Ocasio-Cortez to visit the U.S. Holocaust Memorial Museum after she compared C… https://t.co/Lx1e8fSMtC,Tue Nov 27 19:11:00 +0000 2018,0.0,0.0,1.0,0.0
+363,CBS News,"Sarah Huckabee Sanders says President Trump has ""no intent to do anything"" about Robert Mueller's investigation, de… https://t.co/Tq1t4E6zIp",Tue Nov 27 19:10:46 +0000 2018,-0.296,0.0,0.885,0.115
+364,CBS News,National Security Advisor John Bolton says he hasn't listened to the tape of Jamal Khashoggi's killing because it's… https://t.co/ugOt0n8KpN,Tue Nov 27 19:08:02 +0000 2018,-0.4588,0.101,0.714,0.185
+365,CBS News,"Top White House economic advisor Larry Kudlow says the Trump administration is looking into ""certain subsidies rega… https://t.co/aVUhDD6TQF",Tue Nov 27 18:52:16 +0000 2018,0.4404,0.196,0.804,0.0
+366,CBS News,"""A different world"": Colorblind sheriff's deputy sees color for the first time thanks to colleagues' gift… https://t.co/6is1O6ITX5",Tue Nov 27 18:50:31 +0000 2018,0.4404,0.153,0.847,0.0
+367,CBS News,WATCH LIVE: Sarah Huckabee Sanders holds first White House press briefing in a month amid conflicts over border sec… https://t.co/8QBRag96OQ,Tue Nov 27 18:36:43 +0000 2018,-0.3818,0.0,0.874,0.126
+368,CBS News,"""Spongebob Squarepants"" creator Stephen Hillenburg dead at 57 https://t.co/6eMbJDVsiS https://t.co/olhzaaEexI",Tue Nov 27 18:30:44 +0000 2018,-0.6486,0.0,0.677,0.323
+369,CBS News,Group urges authorities in India to abandon efforts to recover American's body on remote island… https://t.co/3WzIusDOEn,Tue Nov 27 18:10:36 +0000 2018,-0.4404,0.0,0.838,0.162
+370,CBS News,Employee shot dead in Pennsylvania municipal building https://t.co/UtDYPjghxM https://t.co/TH9qRi5rpH,Tue Nov 27 17:50:39 +0000 2018,-0.6486,0.0,0.65,0.35
+371,CBS News,Pelosi tries to win over Democrats ahead of House speaker vote https://t.co/Bjc4Vu6Pls https://t.co/ldVSewKwz9,Tue Nov 27 17:30:30 +0000 2018,0.5859,0.241,0.759,0.0
+372,CBS News,Dad who lived in North Carolina church loses bid to avoid deportation https://t.co/juiTgyQkdx https://t.co/BlUsVanxTO,Tue Nov 27 17:10:44 +0000 2018,-0.5423,0.0,0.727,0.273
+373,CBS News,"Facebook engineer warned in 2014 of Russian intrusion, U.K. lawmaker says https://t.co/SROv6ZOgUu https://t.co/C6k83z2G4V",Tue Nov 27 16:40:51 +0000 2018,-0.2732,0.0,0.851,0.149
+374,CBS News,"Amazon says Cyber Monday, Black Friday broke sales records https://t.co/LPxowQJWnY https://t.co/v55TnWctyP",Tue Nov 27 16:20:47 +0000 2018,-0.2732,0.126,0.667,0.207
+375,CBS News,Roger Stone associate Jerome Corsi says he is rejecting Robert Mueller plea deal https://t.co/QVptRDeMwy https://t.co/uEYulyQU7V,Tue Nov 27 16:00:55 +0000 2018,-0.4588,0.0,0.824,0.176
+376,CBS News,A United Nations study out this week finds domestic violence is one of the most common killers of women around the… https://t.co/BaHjaZzxN2,Tue Nov 27 15:40:43 +0000 2018,-0.7832,0.095,0.611,0.294
+377,CBS News,"If you don't know where your romaine came from, don't eat it, says CDC https://t.co/MTqD9AXS8U https://t.co/tvCrNfOKrn",Tue Nov 27 15:20:52 +0000 2018,0.0,0.0,1.0,0.0
+378,CBS News,Russia released video of a group of captured Ukrainian sailors giving oral confessions to deliberately violating Ru… https://t.co/vrs82g4LIi,Tue Nov 27 15:00:47 +0000 2018,-0.2732,0.115,0.718,0.167
+379,CBS News,President Trump says he expects to raise tariffs on China https://t.co/BwfCKB7aRn https://t.co/u78quW8dhH,Tue Nov 27 14:40:47 +0000 2018,0.0,0.0,1.0,0.0
+380,The New York Times,"Lars von Trier's director's cut of ""The House That Jack Built"" prompted walkouts at the Cannes Film Festival over i… https://t.co/7H9RE4V6d9",Tue Nov 27 20:10:05 +0000 2018,0.1027,0.128,0.72,0.152
+381,The New York Times,"Stephen Hillenburg, the former marine biology teacher who created “SpongeBob SquarePants,” died on Monday. He was 5… https://t.co/6x0Ifrls0m",Tue Nov 27 19:55:07 +0000 2018,-0.3818,0.093,0.741,0.167
+382,The New York Times,The insect apocalypse is here. What does it mean for the rest of life on Earth? https://t.co/0KMQbNxeID,Tue Nov 27 19:40:08 +0000 2018,0.0,0.0,1.0,0.0
+383,The New York Times,"Alone on a freezing cold mountaintop in Gansu, China across the world from a life she left behind almost a year ago… https://t.co/2MMiWZDEPQ",Tue Nov 27 19:25:05 +0000 2018,-0.34,0.0,0.841,0.159
+384,The New York Times,Fox News viewers are fiercely loyal to their network. But will they pay $5.99 a month for on-demand access? https://t.co/0YIHEdKRlj,Tue Nov 27 19:10:04 +0000 2018,0.4019,0.144,0.791,0.065
+385,The New York Times,"RT @SherylNYT: “I don’t agree with, ‘When they go low, we go low,’ but I do agree that when they go low, we have to respond,” @SenAmyKlobuc…",Tue Nov 27 19:00:15 +0000 2018,0.2023,0.16,0.705,0.135
+386,The New York Times,Breaking News: Lion Air black box data shows a fatal tug of war between man and machine as pilots fought to regain… https://t.co/mguLouZApc,Tue Nov 27 18:53:46 +0000 2018,-0.8658,0.0,0.662,0.338
+387,The New York Times,"The Bank of England plans to introduce a new £50 note, with the design honoring a scientist. One of the nominees? M… https://t.co/uPp5ZzD21g",Tue Nov 27 18:45:05 +0000 2018,0.5106,0.142,0.858,0.0
+388,The New York Times,A judicial nominee nearing a showdown vote in the Senate Judiciary Committee could be the test for Senator Jeff Fla… https://t.co/B9V0y8isSy,Tue Nov 27 18:30:04 +0000 2018,0.0,0.0,1.0,0.0
+389,The New York Times,RT @alanblinder: It's Election Day (again) in Mississippi. https://t.co/R5BDZ7WuEX,Tue Nov 27 18:15:08 +0000 2018,0.0,0.0,1.0,0.0
+390,The New York Times,"At his heaviest, Michael Warner weighed 696 pounds. But after learning he was prediabetic, he felt motivated to mak… https://t.co/a5ds7WGe0c",Tue Nov 27 18:00:06 +0000 2018,0.4588,0.136,0.864,0.0
+391,The New York Times,A father was found shot to death outside his home. His wife and 2 young children were found dead inside their burni… https://t.co/KPth7NRPCP,Tue Nov 27 17:45:07 +0000 2018,-0.8481,0.0,0.699,0.301
+392,The New York Times,American and Czech forces are under investigation for the death of an Afghan commando who was beaten while in NATO… https://t.co/B5qnv43zDz,Tue Nov 27 17:37:04 +0000 2018,-0.7717,0.0,0.739,0.261
+393,The New York Times,RT @migold: A family of 4 brutally killed before Thanksgiving. Suspicious fires in homes owned by 2 brothers. And a whole lot of questions.…,Tue Nov 27 17:30:12 +0000 2018,-0.9001,0.0,0.607,0.393
+394,The New York Times,"A former schoolteacher and his twin brother pleaded guilty to federal conspiracy and bomb-making charges, admitting… https://t.co/90LFa6jxnJ",Tue Nov 27 17:15:10 +0000 2018,-0.8074,0.0,0.61,0.39
+395,The New York Times,"In Opinion
+
+Dana Bolger writes, ""Our educations shouldn’t depend on whether we live in a school district that cares… https://t.co/NONsZdnWvo",Tue Nov 27 17:00:14 +0000 2018,0.0,0.0,1.0,0.0
+396,The New York Times,RT @mannyNYT: This 1997 case shows what can go wrong when troops patrol the border. A Marine shot and killed a Texas teenager herding goats…,Tue Nov 27 16:46:05 +0000 2018,-0.8225,0.0,0.734,0.266
+397,The New York Times,"Even if the world cuts greenhouse gas emissions quickly, the United States will need to spend billions of dollars t… https://t.co/gBYev8pEwP",Tue Nov 27 16:30:12 +0000 2018,0.1531,0.117,0.792,0.092
+398,The New York Times,"RT @marclacey: “I’m tired. Tired from this terminal, lonely as a sparrow in the rain,” he wrote. “Tired of never having a soul to be with o…",Tue Nov 27 16:14:04 +0000 2018,-0.8074,0.0,0.726,0.274
+399,The New York Times,"After 3 decades of balancing freedom and authoritarianism, is China leaning too far toward state control under Xi J… https://t.co/Iyg2ymmH1Z",Tue Nov 27 16:00:16 +0000 2018,0.6369,0.189,0.811,0.0
+400,Fox News,.@POTUS: “Hopefully we can all work together next year to continue delivering for the American people.”… https://t.co/FdLczQZN4g,Thu Nov 08 05:01:00 +0000 2018,0.0,0.0,1.0,0.0
+401,Fox News,Former US Attorney Harry Litman on Whitaker &amp; Mueller probe: “I think most people think it’s unlikely that he would… https://t.co/6W1eHbZ7zZ,Thu Nov 08 04:55:00 +0000 2018,0.0,0.0,1.0,0.0
+402,Fox News,Pete Davidson's 'SNL' castmate Kenan Thompson talks Dan Crenshaw joke: 'They are figuring out a way to right that w… https://t.co/MlIJF907FK,Thu Nov 08 04:50:00 +0000 2018,0.296,0.104,0.896,0.0
+403,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/lqmOqmHcJZ",Thu Nov 08 04:45:00 +0000 2018,0.7096,0.296,0.704,0.0
+404,Fox News,"Tom Dupree on Acting Attorney General Matthew Whitaker: “Calls for him to recuse from Russia, I think, are meritles… https://t.co/74TWeQngjg",Thu Nov 08 04:35:00 +0000 2018,0.0,0.0,1.0,0.0
+405,Fox News,"Cabinet shakeup expected after @jeffsessions pushed out, @edhenry reports @foxnewsnight https://t.co/6UTwyCpZRV https://t.co/MY7kH6s4T7",Thu Nov 08 04:25:00 +0000 2018,-0.1531,0.0,0.873,0.127
+406,Fox News,"New reactions to Sessions resignation, Catherine Herridge has the story @foxnewsnight https://t.co/6UTwyCHBgv https://t.co/FaiATyMSgC",Thu Nov 08 04:14:15 +0000 2018,-0.296,0.0,0.845,0.155
+407,Fox News,MLB star @Bharper3407 rejects $300M offer from Nationals: Reports (via @FoxBusiness) https://t.co/Bgfoyi7fNH,Thu Nov 08 04:05:00 +0000 2018,-0.4939,0.0,0.775,0.225
+408,Fox News,Doug Schoen: Trump shouldn’t have fired Jeff Sessions – here’s why https://t.co/0ITTpZyqyx,Thu Nov 08 03:55:00 +0000 2018,-0.5574,0.0,0.735,0.265
+409,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/3eoxyIurd3",Thu Nov 08 03:52:26 +0000 2018,0.5106,0.155,0.845,0.0
+410,Fox News,‘Brady Bunch’ cast to take part in TV home’s renovation: report https://t.co/rebtV4qkql,Thu Nov 08 03:48:00 +0000 2018,0.0,0.0,1.0,0.0
+411,Fox News,".@TuckerCarlson: Dems' Election Message Was All 'Trump', No Substance https://t.co/CscvHQkfAX",Thu Nov 08 03:42:00 +0000 2018,-0.296,0.0,0.804,0.196
+412,Fox News,"11-year-old in North Carolina charged with putting needles in Halloween candy, police say https://t.co/Dm3F07wpIt",Thu Nov 08 03:35:00 +0000 2018,-0.2023,0.0,0.878,0.122
+413,Fox News,Rhino rescue? Scientists may hold key to saving northern white rhinoceros from extinction  https://t.co/VUifTtCbTk,Thu Nov 08 03:29:00 +0000 2018,0.5106,0.202,0.798,0.0
+414,Fox News,"RT @FoxBusiness: Rick Scott: ""Socialism will not happen in our nation, and it's not going to happen under my watch."" https://t.co/CLNOuNnGNo",Thu Nov 08 03:23:02 +0000 2018,0.0,0.0,1.0,0.0
+415,Fox News,"Democrat Colin Allred, who unseated Rep. Pete Sessions, won't say if he'll back Pelosi https://t.co/mNox8bKgiA",Thu Nov 08 03:23:00 +0000 2018,0.0,0.0,1.0,0.0
+416,Fox News,Surveillance video shows Michigan woman reportedly reversing car into store https://t.co/tJr2cUsZ8a,Thu Nov 08 03:16:01 +0000 2018,0.0,0.0,1.0,0.0
+417,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/xF54bEhvOA",Thu Nov 08 03:11:00 +0000 2018,0.4939,0.158,0.842,0.0
+418,Fox News,Woman finds her diamond before proposal and 'ring shames' herself https://t.co/uoLHUxHeBD,Thu Nov 08 03:04:00 +0000 2018,-0.0772,0.17,0.638,0.191
+419,Fox News,McDonald's customers’ $5M lawsuit over unwanted Quarter Pounder cheese dismissed by judge https://t.co/yBEvL4cAFK,Thu Nov 08 03:01:47 +0000 2018,-0.4215,0.0,0.743,0.257
+420,CNN,"FDA warns against using Rhino male enhancement products
+https://t.co/RM4pViPEoV https://t.co/k0rCHPkHn2",Tue Nov 27 19:15:08 +0000 2018,-0.1027,0.0,0.865,0.135
+421,CNN,"Stephen Hillenburg, the creator of ""SpongeBob Squarepants,"" has died. He was 57. https://t.co/yVzJbatZHn https://t.co/JsZyCyrwUW",Tue Nov 27 19:00:06 +0000 2018,-0.5574,0.0,0.783,0.217
+422,CNN,RT @CNNnewsroom: National Economic Council Director Larry Kudlow says Trump is “open” to making a trade deal with Chinese President Xi Jinp…,Tue Nov 27 18:45:43 +0000 2018,0.0,0.0,1.0,0.0
+423,CNN,"The US has ""slammed the brakes on"" a UN Security Council resolution calling for a limited ceasefire and increased h… https://t.co/dGEy7FDdod",Tue Nov 27 18:30:06 +0000 2018,0.3818,0.201,0.714,0.085
+424,CNN,Authorities in India have decided to hold off retrieving the body of the American national feared killed on North S… https://t.co/PcoB7RryuV,Tue Nov 27 18:20:09 +0000 2018,-0.8271,0.0,0.712,0.288
+425,CNN,"The White House is about to have its first press briefing in nearly a month. 
+
+Follow live updates:… https://t.co/882XUk1ztp",Tue Nov 27 18:07:08 +0000 2018,0.0,0.0,1.0,0.0
+426,CNN,The changing police narrative of why an officer shot and killed a black man in an Alabama mall… https://t.co/IY6n4ZUhp4,Tue Nov 27 17:58:02 +0000 2018,-0.6705,0.0,0.791,0.209
+427,CNN,"Robert De Niro confirms split from wife Grace Hightower
+https://t.co/pVwLmPplTl https://t.co/nUHeBXhuQc",Tue Nov 27 17:48:06 +0000 2018,0.4215,0.219,0.781,0.0
+428,CNN,"Jack Ma, China's most famous entrepreneur, was identified as a member of the Communist Party https://t.co/DtqbJXB1Ac https://t.co/APg96W54HF",Tue Nov 27 17:38:06 +0000 2018,0.4019,0.153,0.847,0.0
+429,CNN,"Some university groups in the UK have started using the term ""womxn"" rather than ""women"" in official communications… https://t.co/hXtkObpssw",Tue Nov 27 17:28:06 +0000 2018,0.0,0.0,1.0,0.0
+430,CNN,"Rep. Tim Ryan says it's ""insulting"" for President Trump to boast about his administration's effect on manufacturing… https://t.co/kal1KTYLOx",Tue Nov 27 17:18:07 +0000 2018,0.0,0.0,1.0,0.0
+431,CNN,Democrats Stacey Abrams and Andrew Gillum are calling on the US Senate to reject President Trump's nomination of a… https://t.co/HhPlWGdFYO,Tue Nov 27 17:14:05 +0000 2018,-0.4019,0.0,0.876,0.124
+432,CNN,The endangered dusky gopher frog is dealt a setback at Supreme Court https://t.co/p7bNJ85xd3 https://t.co/ldsvfoafTv,Tue Nov 27 17:04:08 +0000 2018,0.5574,0.231,0.769,0.0
+433,CNN,The 35 most shocking lines from Donald Trump's Mississippi speech | Analysis by Chris Cillizza… https://t.co/VZJjrELt7u,Tue Nov 27 16:53:03 +0000 2018,-0.4576,0.0,0.824,0.176
+434,CNN,Shrinking islands. Declining fisheries. West Nile virus. More wildfires. Here's how your part of the US will be aff… https://t.co/iBDhUOQSJn,Tue Nov 27 16:45:06 +0000 2018,0.0,0.0,1.0,0.0
+435,CNN,What you need to know about today's Mississippi Senate runoff https://t.co/IP1rSx0V7f https://t.co/X9Y0xcECXj,Tue Nov 27 16:28:06 +0000 2018,0.0,0.0,1.0,0.0
+436,CNN,An annual UN report card shows the world's climate change efforts have fallen woefully short of the 2-degree-Celsiu… https://t.co/q4KuQhyeGj,Tue Nov 27 16:20:08 +0000 2018,-0.6369,0.0,0.766,0.234
+437,CNN,"Pilot falls asleep, overshoots island destination by 30 miles https://t.co/2TzlaiiYgL https://t.co/bhibz9rQGP",Tue Nov 27 16:10:03 +0000 2018,0.0,0.0,1.0,0.0
+438,CNN,"Jason Momoa discusses his biggest ""Aquaman"" costume struggle
+https://t.co/aFFyoN0phG https://t.co/n3DHUFuzrM",Tue Nov 27 16:00:16 +0000 2018,-0.3182,0.0,0.796,0.204
+439,CNN,"Is it now safe to eat romaine lettuce? Not yet, FDA says
+https://t.co/LARXo7tJcv https://t.co/UtII6FUMNw",Tue Nov 27 15:49:03 +0000 2018,0.4404,0.182,0.818,0.0
+440,BBC News (World),"Fikri's parents live far away from Palu and didn't know.
+
+But the news soon reached them and they were devastated. https://t.co/zQBqYtwIDK",Tue Nov 27 05:39:55 +0000 2018,-0.5574,0.057,0.779,0.164
+441,BBC News (World),"Fikri's grandmother feared the worst.
+
+""We were almost certain we had lost him,"" Selfi Salilama said.
+
+""At the hosp… https://t.co/JYEGWp8VAT",Tue Nov 27 05:39:55 +0000 2018,-0.8313,0.066,0.584,0.35
+442,BBC News (World),"It was a good call.
+
+After the earth stopped shaking, Marta left Fikri with neighbours on Palu bay.
+
+But when she c… https://t.co/XXc0S0WiTp",Tue Nov 27 05:39:51 +0000 2018,0.0772,0.114,0.745,0.141
+443,BBC News (World),"The ordeal started with his grand aunt Martha Salilama, who evacuated their house. When walls shook, she dragged li… https://t.co/JmXoduTuJl",Tue Nov 27 05:39:50 +0000 2018,0.34,0.133,0.752,0.115
+444,BBC News (World),"This is the story of another lost child, seven-year-old Fikri.
+
+[Tap to expand]
+
+https://t.co/zQBqYtwIDK https://t.co/T3Hh3LiXca",Tue Nov 27 05:39:48 +0000 2018,-0.3182,0.0,0.859,0.141
+445,BBC News (World),"Here's a video that captures Jumadil's happy, emotional reunion with his family.
+
+[Tap to expand]… https://t.co/JcJFD0tjJo",Tue Nov 27 05:38:07 +0000 2018,0.6486,0.29,0.71,0.0
+446,BBC News (World),"""It's an absolute miracle he came back,"" Jumadil's grandfather says.
+
+We are happy to report that he hugged his mot… https://t.co/po5W8R8nhn",Tue Nov 27 05:36:21 +0000 2018,0.8807,0.362,0.638,0.0
+447,BBC News (World),"A desperate search for Jumadil began.
+
+His uncle posted this on Facebook - setting the stage for a reunion.
+
+Miracu… https://t.co/J5mlOFeIgD",Tue Nov 27 05:36:18 +0000 2018,-0.3182,0.0,0.881,0.119
+448,BBC News (World),"Little Jumadil was building sandcastles on the beach when the earthquake hit.
+
+""Children's corpses were everywhere,… https://t.co/SKWjXzbrel",Tue Nov 27 05:36:15 +0000 2018,0.0,0.0,1.0,0.0
+449,BBC News (World),"THREAD
+
+It's been two months since a massive earthquake and powerful tsunami struck the Indonesian island of Sulawe… https://t.co/i1L7dGBKXc",Tue Nov 27 05:36:11 +0000 2018,0.2023,0.135,0.769,0.096
+450,BBC News (World),"'Asleep' pilot missed destination in Australia, officials say https://t.co/2linVVgIGv",Tue Nov 27 04:56:57 +0000 2018,-0.296,0.0,0.784,0.216
+451,BBC News (World),Paul Manafort breached plea deal by lying - Special Counsel Mueller https://t.co/cGTavnuQkT,Tue Nov 27 02:46:59 +0000 2018,-0.1779,0.179,0.596,0.225
+452,BBC News (World),How cooking and cleaning transformed a violent man https://t.co/NObDvaKOvN,Tue Nov 27 00:46:44 +0000 2018,-0.5994,0.0,0.642,0.358
+453,BBC News (World),Why Ukraine-Russia sea clash is fraught with risk https://t.co/uu7ZWomeO2,Tue Nov 27 00:36:57 +0000 2018,-0.2732,0.0,0.792,0.208
+454,BBC News (World),Afghan Shias in the firing line: 'IS wants to wipe us out' https://t.co/eWOq4xCbeO,Tue Nov 27 00:21:57 +0000 2018,-0.34,0.0,0.833,0.167
+455,BBC News (World),Indonesia tsunami: 'It’s an absolute miracle' my child survived https://t.co/l9Vf9kVjSH,Tue Nov 27 00:17:15 +0000 2018,0.7964,0.47,0.53,0.0
+456,BBC News (World),Gamer arrested 'after rape overheard on gaming stream' https://t.co/fNhSyAeufJ,Mon Nov 26 23:14:34 +0000 2018,-0.8316,0.0,0.473,0.527
+457,BBC News (World),Benoit Quennedey: French official 'suspected of spying for North Korea' https://t.co/uL7Vq7BzYV,Mon Nov 26 22:25:20 +0000 2018,-0.2263,0.0,0.84,0.16
+458,BBC News (World),Syrian man stranded in Malaysia airport coming to Canada https://t.co/rXwiMmr61P,Mon Nov 26 20:21:56 +0000 2018,0.0,0.0,1.0,0.0
+459,BBC News (World),"President Trump casts doubt on climate report
+
+https://t.co/q1VZVGHUPp",Mon Nov 26 20:20:05 +0000 2018,-0.3612,0.0,0.737,0.263
+460,CBS News,Parents of Maryland student who died say health center didn't test for adenovirus https://t.co/L20Ed0UdJI https://t.co/2bl65DwAm4,Tue Nov 27 14:20:39 +0000 2018,-0.5574,0.0,0.795,0.205
+461,CBS News,"BIG REVEAL: The 2018 White House holiday décor, designed by First lady Melania Trump, has been unveiled 🎄… https://t.co/g9Ue2f4V0F",Tue Nov 27 14:01:14 +0000 2018,0.4019,0.13,0.87,0.0
+462,CBS News,"Trump defends using ""safe"" tear gas as DHS claims 600 migrants are convicted criminals https://t.co/uRdP0R3zME https://t.co/F4swdZhHTO",Tue Nov 27 13:40:37 +0000 2018,-0.5719,0.0,0.802,0.198
+463,CBS News,RT @CBSThisMorning: WATCH: We tracked down the @Reuters photographer who took the picture of a mother and her daughters running away from a…,Tue Nov 27 13:34:55 +0000 2018,0.0,0.0,1.0,0.0
+464,CBS News,RT @CBSThisMorning: WATCH: A nerve-wracking video shows a tourist clinging for life onto a hang glider in Switzerland. Chris Gursky's harne…,Tue Nov 27 13:34:40 +0000 2018,0.0,0.0,1.0,0.0
+465,CBS News,"RT @CBSThisMorning: GM could lay off up to 14,000 workers, including 15% of salaried employees. The auto giant will stop production at five…",Tue Nov 27 13:23:05 +0000 2018,-0.296,0.0,0.909,0.091
+466,CBS News,"The U.S. military says three American service members have been killed, three others wounded in a roadside bombing… https://t.co/PxzKfqOzSH",Tue Nov 27 13:20:44 +0000 2018,-0.6705,0.0,0.791,0.209
+467,CBS News,RT @CBSThisMorning: Chinese medical officials say they are investigating the scientist who claims to have created the world's first genetic…,Tue Nov 27 13:20:00 +0000 2018,0.25,0.095,0.905,0.0
+468,CBS News,25-year-old Army Sgt. Leandro A.S. Jasso was killed in Afghanistan during combat operations. A dignified transfer w… https://t.co/BG6jvUlpgo,Tue Nov 27 13:01:00 +0000 2018,-0.5719,0.133,0.581,0.286
+469,CBS News,Beto O'Rourke changes his answer on 2020 presidential run https://t.co/GgCmeTy5kA https://t.co/jfrTnypa2o,Tue Nov 27 12:40:33 +0000 2018,0.0,0.0,1.0,0.0
+470,CBS News,RT @CBSThisMorning: NASA announced another major milestone for its historic Mars lander. The solar panels on the InSight spacecraft opened…,Tue Nov 27 12:34:56 +0000 2018,0.0,0.0,1.0,0.0
+471,CBS News,"RT @CBSThisMorning: ""These plants, in GM's words, become unallocated or essentially idle sometime during 2019... it'll be a rolling date"" -…",Tue Nov 27 12:23:44 +0000 2018,0.0,0.0,1.0,0.0
+472,CBS News,"RT @CBSThisMorning: More than 3 million people in the Northeast are under winter storm warnings this morning.
+
+The powerful storm that disr…",Tue Nov 27 12:22:53 +0000 2018,0.1531,0.117,0.792,0.092
+473,CBS News,NASA's InSight spacecraft takes selfie after supersonic landing in Mars https://t.co/FWfiwSi2X9 https://t.co/r3fkXXpUEb,Tue Nov 27 12:20:48 +0000 2018,0.0,0.0,1.0,0.0
+474,CBS News,"Uighur woman details horrific abuse she experienced at China internment camp: ""I thought that I would rather die th… https://t.co/k3CKKQIIuf",Tue Nov 27 11:58:55 +0000 2018,-0.926,0.0,0.561,0.439
+475,CBS News,WATCH NOW: A top Facebook executive is grilled by a first-of-its-kind panel of lawmakers from several nations inves… https://t.co/zErPPrU82i,Tue Nov 27 11:54:41 +0000 2018,0.2023,0.101,0.899,0.0
+476,CBS News,"Coming up on @CBSThisMorning, learn what role @NASA's ""Insight"" spacecraft will play in getting humans to Mars afte… https://t.co/aDhtWp8ww5",Tue Nov 27 11:49:40 +0000 2018,0.34,0.118,0.882,0.0
+477,CBS News,"Ahead on @CBSThisMorning, we'll look at what General Motors' planned layoffs and halted production lines mean for U… https://t.co/BzX4Sd8Xbi",Tue Nov 27 11:37:29 +0000 2018,0.0,0.0,1.0,0.0
+478,CBS News,Christine Blasey Ford speaks out in rare statement since Kavanaugh hearings https://t.co/FT0Ua2dbtk https://t.co/WnhZbZUsCd,Tue Nov 27 11:03:04 +0000 2018,0.0,0.0,1.0,0.0
+479,CBS News,Mexican police crack down after clashes with migrants at U.S. border https://t.co/EB4y2HeB9B https://t.co/5xVMT3pTrE,Tue Nov 27 10:48:04 +0000 2018,0.0,0.0,1.0,0.0
+480,The New York Times,Mississippi has elected only Republicans to the Senate for the last three decades. But a controversial remark by a… https://t.co/zWf6Dwo4hK,Tue Nov 27 15:44:05 +0000 2018,-0.2023,0.0,0.909,0.091
+481,The New York Times,"Condé Nast’s chief executive, Robert Sauerberg, is stepping down as the magazine publisher confronts declines in ci… https://t.co/wBVjqKqYok",Tue Nov 27 15:29:05 +0000 2018,-0.2263,0.0,0.899,0.101
+482,The New York Times,Data from a European satellite has revealed the tectonic underworld below Antarctica's ice https://t.co/F6LCkue9JN,Tue Nov 27 15:15:03 +0000 2018,0.0,0.0,1.0,0.0
+483,The New York Times,"Mississippi voters will settle a runoff election between Senator Cindy Hyde-Smith, a Republican, and her Democratic… https://t.co/Vj6sZATvK4",Tue Nov 27 15:00:11 +0000 2018,0.0,0.0,1.0,0.0
+484,The New York Times,Will the growing interest in traditional Chinese medicine — at home and abroad — doom some of the world’s rarest sp… https://t.co/nE97Byf6cU,Tue Nov 27 14:50:08 +0000 2018,0.25,0.193,0.697,0.111
+485,The New York Times,President Trump lobbed insults at the Robert Mueller investigation the day after prosecutors said that Paul Manafor… https://t.co/u9SDbvdAnu,Tue Nov 27 14:40:09 +0000 2018,-0.4215,0.0,0.859,0.141
+486,The New York Times,Trevor Noah can't believe that Trump can't believe the climate report. Here's our late-night roundup. https://t.co/OWEoNNia1O,Tue Nov 27 14:31:04 +0000 2018,0.0,0.0,1.0,0.0
+487,The New York Times,"""Trump has done more than just leave him and the United States open to criticism that we embrace despots as long as… https://t.co/JDaH16EVvr",Tue Nov 27 14:21:04 +0000 2018,0.1868,0.179,0.668,0.153
+488,The New York Times,"President Trump offered an unabashed endorsement of Senator Cindy Hyde-Smith, who is under fire over comments that… https://t.co/0gMkS66EpM",Tue Nov 27 14:10:05 +0000 2018,-0.0258,0.111,0.773,0.116
+489,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/qItKF49k6w,Tue Nov 27 14:00:12 +0000 2018,0.0,0.0,1.0,0.0
+490,The New York Times,"He was so established in trafficking, prosecutors said, that he had even had his own cocaine brand: Laboratories in… https://t.co/CCuWTY7wii",Tue Nov 27 13:50:01 +0000 2018,0.0,0.0,1.0,0.0
+491,The New York Times,"Your daily @DealBook Briefing:
+
+• G.M.'s plant closures are a warning sign.
+
+• Trump’s Saudi play could backfire.… https://t.co/HXJCFmNqlO",Tue Nov 27 13:41:06 +0000 2018,0.0,0.128,0.745,0.128
+492,The New York Times,"Breaking News: Three American soldiers were killed in Afghanistan, the U.S. military said. It was the worst loss of… https://t.co/kMe7BXv559",Tue Nov 27 13:28:44 +0000 2018,-0.8979,0.0,0.609,0.391
+493,The New York Times,"Breaking News: Three American soldiers were killed in Afghanistan, the U.S. military said. It was the worst loss of… https://t.co/fgIjpjLLS5",Tue Nov 27 13:28:05 +0000 2018,-0.8979,0.0,0.609,0.391
+494,The New York Times,"For 53 years, Tommy Rowles asked ""What are you having?"" to the likes of Elizabeth Taylor, Paul McCartney and anyone… https://t.co/mTZPxqWYHt",Tue Nov 27 13:14:44 +0000 2018,0.4215,0.123,0.877,0.0
+495,The New York Times,"In August, we examined the greed, deception and ego behind Paul Manafort’s rise and fall https://t.co/dDWxRGeeHt",Tue Nov 27 13:13:19 +0000 2018,-0.6808,0.0,0.714,0.286
+496,The New York Times,It's Giving Tuesday. Here's how to set a plan for giving that works for you. https://t.co/LSfA7eS2fr,Tue Nov 27 13:00:15 +0000 2018,0.5859,0.27,0.73,0.0
+497,The New York Times,"This photo of a woman, clutching two children as they ran from a smoking tear gas canister, spread rapidly online https://t.co/WOw1BYwppd",Tue Nov 27 12:44:06 +0000 2018,0.0,0.0,1.0,0.0
+498,The New York Times,"In Opinion
+
+Will Wilkinson writes: ""The Trump presidency is the apotheosis of the crooked class, a monster made fro… https://t.co/6QKF7PBceR",Tue Nov 27 12:30:08 +0000 2018,0.0,0.0,1.0,0.0
+499,The New York Times,The U.S. as a place of refuge https://t.co/bi6isIiaTx,Tue Nov 27 12:16:05 +0000 2018,0.0,0.0,1.0,0.0
